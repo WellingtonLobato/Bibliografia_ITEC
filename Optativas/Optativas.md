@@ -1,3 +1,14 @@
+<!-- Cabeçalho ITEC -->
+<div align="center">
+  <img src="../img/logo_itec.png"
+       alt="Logo ITEC"
+       width="300"/>
+
+  <h3>Instituto de Tecnologia e Computação</h3>
+  
+  ---
+</div>
+
 # 🧩 Disciplinas Optativas
 
 As disciplinas optativas promovem a flexibilização curricular e permitem que os estudantes aprofundem conhecimentos em áreas alinhadas aos seus interesses acadêmicos e profissionais. Por meio dessas unidades curriculares, é possível explorar temas emergentes, ampliar a formação interdisciplinar e complementar as competências desenvolvidas ao longo do curso.

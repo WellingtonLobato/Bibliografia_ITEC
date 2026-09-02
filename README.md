@@ -1,4 +1,15 @@
-# 🎓 Bacharelado em Ciência da Computação (ITEC)
+<!-- Cabeçalho ITEC -->
+<div align="center">
+  <img src="img/logo_itec.png"
+       alt="Logo ITEC"
+       width="300"/>
+
+  <h3>Instituto de Tecnologia e Computação</h3>
+  
+  ---
+</div>
+
+# 🎓 Bacharelado em Ciência da Computação 
 
 O curso de Bacharelado em Ciência da Computação do ITEC tem como propósito formar profissionais com perfil generalista, humanístico e empreendedor, dotados de raciocínio lógico-analítico, criatividade e visão integrada. O egresso estará preparado para atuar em equipes multidisciplinares, tomar decisões de maneira ágil e desenvolver soluções inovadoras, considerando os contextos social, político e econômico.
 

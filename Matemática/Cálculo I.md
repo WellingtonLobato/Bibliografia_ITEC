@@ -1,3 +1,14 @@
+<!-- Cabeçalho ITEC -->
+<div align="center">
+  <img src="../img/logo_itec.png"
+       alt="Logo ITEC"
+       width="300"/>
+
+  <h3>Instituto de Tecnologia e Computação</h3>
+  
+  ---
+</div>
+
 # Cálculo I
 
 ## Ementa
