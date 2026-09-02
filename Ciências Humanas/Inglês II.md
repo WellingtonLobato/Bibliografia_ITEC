@@ -55,12 +55,12 @@ Estudo das formas de futuro com *will* e *be going to*; *present perfect*; *past
    - 🔗 *link a verificar*
    - **Justificativa:** possibilita revisar estruturas e habilidades linguísticas essenciais, oferecendo suporte à consolidação dos conhecimentos necessários para acompanhar os conteúdos intermediários da disciplina.
 
-2. MARUCCI, Liege Maria de Souza (coord.). **Dicionário inglês**: português, inglês. 1. ed. São Paulo: Rideel, 2012. `[promovida do corpus]`
+2. MARUCCI, Liege Maria de Souza (coord.). **Dicionário inglês**: português, inglês. 1. ed. São Paulo: Rideel, 2012.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/174323](https://plataforma.bvirtual.com.br/Acervo/Publicacao/174323)
    - **Justificativa:** apoia a consulta de vocabulário, significados e equivalências entre português e inglês, auxiliando a leitura, a escrita e a compreensão das atividades desenvolvidas na disciplina.
 
-3. PHILIPPSBORN, Henry Erwin. **Dicionário de tecnologia industrial**: inglês e português. 1. ed. Rio de Janeiro: Interciência, 2006. `[promovida do corpus]`
+3. PHILIPPSBORN, Henry Erwin. **Dicionário de tecnologia industrial**: inglês e português. 1. ed. Rio de Janeiro: Interciência, 2006. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/188051](https://plataforma.bvirtual.com.br/Acervo/Publicacao/188051)
    - **Justificativa:** amplia o repertório de termos técnicos em inglês e português, contribuindo para a leitura e a interpretação de textos, manuais e documentos relacionados à tecnologia e à Computação.

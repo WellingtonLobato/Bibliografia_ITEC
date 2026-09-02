@@ -23,12 +23,12 @@ Valor presente e valor futuro; capitalização e desconto; anuidades; balanço p
 
 ## Bibliografia Complementar
 
-1. CRUZ, June Alisson Westarb; GUINDANI, Roberto Ari; ANDRICH, Emir Guimarães; ANDRICH, Rene Guimarães. **Finanças corporativas**: análise de demonstrativos contábeis e de investimentos. 1. ed. Curitiba: InterSaberes, 2014. `[substitui HIGGINS]`
+1. CRUZ, June Alisson Westarb; GUINDANI, Roberto Ari; ANDRICH, Emir Guimarães; ANDRICH, Rene Guimarães. **Finanças corporativas**: análise de demonstrativos contábeis e de investimentos. 1. ed. Curitiba: InterSaberes, 2014. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/14842](https://plataforma.bvirtual.com.br/Acervo/Publicacao/14842)
    - **Justificativa:** apresenta técnicas de análise de demonstrativos contábeis e avaliação de investimentos, apoiando o diagnóstico da situação financeira e a tomada de decisões empresariais.
 
-2. GITMAN, Lawrence J. **Administração financeira**: uma abordagem gerencial. São Paulo: Pearson, 2003. `[substitui BREALEY]`
+2. GITMAN, Lawrence J. **Administração financeira**: uma abordagem gerencial. São Paulo: Pearson, 2003. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/351](https://plataforma.bvirtual.com.br/Acervo/Publicacao/351)
    - **Justificativa:** relaciona conceitos financeiros às decisões gerenciais, oferecendo fundamentos para o planejamento, a análise de riscos e a administração dos recursos da organização.
@@ -38,7 +38,7 @@ Valor presente e valor futuro; capitalização e desconto; anuidades; balanço p
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/327](https://plataforma.bvirtual.com.br/Acervo/Publicacao/327)
    - **Justificativa:** consolida os princípios de administração financeira e aborda valor do dinheiro no tempo, fluxo de caixa, orçamento de capital, risco, retorno e fontes de financiamento.
 
-4. LUZ, Érico Eleutério da (org.). **Gestão financeira e orçamentária**. São Paulo: Pearson, 2015. `[substitui METRICK]`
+4. LUZ, Érico Eleutério da (org.). **Gestão financeira e orçamentária**. São Paulo: Pearson, 2015. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/183208](https://plataforma.bvirtual.com.br/Acervo/Publicacao/183208)
    - **Justificativa:** aborda a elaboração e o controle de orçamentos, a projeção financeira e a análise de variações, contribuindo diretamente para o planejamento e o acompanhamento dos resultados organizacionais.
@@ -55,12 +55,12 @@ Valor presente e valor futuro; capitalização e desconto; anuidades; balanço p
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/9756](https://plataforma.bvirtual.com.br/Acervo/Publicacao/9756)
    - **Justificativa:** oferece uma abordagem prática para o uso de instrumentos de planejamento, controle e análise financeira em situações reais de gestão e tomada de decisão.
 
-2. IZIDORO, Cleyton (org.). **Análise das operações bancárias, crédito e financiamentos**. São Paulo: Pearson, [s. d.]. `[substitui ROSS — ⚠️ ano a confirmar na plataforma]`
+2. IZIDORO, Cleyton (org.). **Análise das operações bancárias, crédito e financiamentos**. São Paulo: Pearson, [s. d.]. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/151072](https://plataforma.bvirtual.com.br/Acervo/Publicacao/151072)
    - **Justificativa:** complementa o estudo das fontes de capital ao abordar operações bancárias, concessão de crédito e modalidades de financiamento disponíveis para pessoas e organizações.
 
-3. MACHADO, Luiz Henrique Mourão. **Sistema financeiro nacional**. São Paulo: Pearson, [s. d.]. `[substitui BRIGHAM — ⚠️ ano a confirmar na plataforma]`
+3. MACHADO, Luiz Henrique Mourão. **Sistema financeiro nacional**. São Paulo: Pearson, [s. d.]. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/35529](https://plataforma.bvirtual.com.br/Acervo/Publicacao/35529)
    - **Justificativa:** apresenta a estrutura, as instituições e o funcionamento do Sistema Financeiro Nacional, contribuindo para a compreensão do ambiente regulatório e das alternativas de captação e aplicação de recursos.

@@ -33,7 +33,7 @@ Continuidade e conclusão do projeto integrador iniciado em Projeto Final Integr
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/2609](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2609)
    - **Justificativa:** aborda princípios de redação e apresentação de trabalhos, apoiando a comunicação dos objetivos, métodos, resultados, limitações e contribuições do projeto.
 
-3. CERVO, Amado Luiz; BERVIAN, Pedro Alcino; SILVA, Roberto da. **Metodologia científica**. 6. ed. São Paulo: Pearson, 2006. `[promovida do corpus]`
+3. CERVO, Amado Luiz; BERVIAN, Pedro Alcino; SILVA, Roberto da. **Metodologia científica**. 6. ed. São Paulo: Pearson, 2006. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/341](https://plataforma.bvirtual.com.br/Acervo/Publicacao/341)
    - **Justificativa:** apresenta métodos e procedimentos para execução e avaliação de trabalhos científicos e técnicos, contribuindo para a análise rigorosa das soluções e dos resultados alcançados.
@@ -43,7 +43,7 @@ Continuidade e conclusão do projeto integrador iniciado em Projeto Final Integr
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/54223](https://plataforma.bvirtual.com.br/Acervo/Publicacao/54223)
    - **Justificativa:** oferece fundamentos para analisar problemas, validar soluções e interpretar resultados com rigor metodológico, coerência e pensamento crítico.
 
-5. PEROVANO, Dalton Gean. **Manual de metodologia da pesquisa científica**. 1. ed. Curitiba: InterSaberes, 2016. `[promovida do corpus]`
+5. PEROVANO, Dalton Gean. **Manual de metodologia da pesquisa científica**. 1. ed. Curitiba: InterSaberes, 2016. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/37394](https://plataforma.bvirtual.com.br/Acervo/Publicacao/37394)
    - **Justificativa:** sistematiza procedimentos de coleta e análise de dados, avaliação, documentação e apresentação de resultados, apoiando a conclusão do projeto integrado.
@@ -60,7 +60,7 @@ Continuidade e conclusão do projeto integrador iniciado em Projeto Final Integr
    - 🔗 [https://doi.org/10.1145/3660767](https://doi.org/10.1145/3660767)
    - **Justificativa:** discute o uso e a avaliação de Inteligência Artificial em engenharia de software, estimulando a análise crítica de ferramentas, métodos, reprodutibilidade e validade dos resultados.
 
-3. MASCARENHAS, Sidnei Augusto (org.). **Metodologia científica**. 2. ed. São Paulo: Pearson, 2018. `[promovida do corpus]`
+3. MASCARENHAS, Sidnei Augusto (org.). **Metodologia científica**. 2. ed. São Paulo: Pearson, 2018. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/183213](https://plataforma.bvirtual.com.br/Acervo/Publicacao/183213)
    - **Justificativa:** reúne conceitos e procedimentos para execução, análise e comunicação de projetos, auxiliando na avaliação dos resultados e na produção dos documentos finais.

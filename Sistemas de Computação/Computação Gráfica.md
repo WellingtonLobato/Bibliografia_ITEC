@@ -16,14 +16,14 @@ Gráficos vetoriais e imagens matriciais (*bitmaps*); renderização em CPU e GP
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/2608](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2608)
    - **Justificativa:** fornece fundamentos sobre representação digital de imagens, modelos de cores, resolução, profundidade, interpolação, filtragem e transformações, complementando os conteúdos de computação gráfica.
 
-3. SHIRLEY, Peter; BLACK, Trevor David; HOLLASCH, Steve. **Ray Tracing in One Weekend**. [S. l.: s. n.], 2024. Licença CC0. `[Open Access — substitui FOLEY]`
+3. SHIRLEY, Peter; BLACK, Trevor David; HOLLASCH, Steve. **Ray Tracing in One Weekend**. [S. l.: s. n.], 2024. Licença CC0. 
 
    - 🔗 [https://raytracing.github.io/](https://raytracing.github.io/)
    - **Justificativa:** apresenta uma implementação didática de um renderizador baseado em traçado de raios, integrando conceitos de câmera, geometria, interseção, materiais, iluminação, reflexão e geração de imagens.
 
 ## Bibliografia Complementar
 
-1. DE VRIES, Joey. **Learn OpenGL**: learn modern OpenGL graphics programming in a step-by-step fashion. [S. l.: s. n.], 2020. PDF de acesso livre no site oficial. `[Open Access — substitui MARSCHNER]`
+1. DE VRIES, Joey. **Learn OpenGL**: learn modern OpenGL graphics programming in a step-by-step fashion. [S. l.: s. n.], 2020. PDF de acesso livre no site oficial. 
 
    - 🔗 [https://learnopengl.com/book/book_pdf.pdf](https://learnopengl.com/book/book_pdf.pdf)
    - **Justificativa:** oferece uma abordagem prática e progressiva da programação gráfica com OpenGL, abrangendo transformações, câmeras, iluminação, texturas, modelos, *shaders* e técnicas modernas de renderização.
@@ -33,7 +33,7 @@ Gráficos vetoriais e imagens matriciais (*bitmaps*); renderização em CPU e GP
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/152024](https://plataforma.bvirtual.com.br/Acervo/Publicacao/152024)
    - **Justificativa:** contextualiza imagens, gráficos, animações, áudio e vídeo em sistemas multimídia, contribuindo para a compreensão de formatos, representação, processamento e integração de conteúdo visual.
 
-3. GAMBETTA, Gabriel. **Computer Graphics from Scratch**: a programmer’s introduction to 3D rendering. San Francisco: No Starch Press, 2021. Hospedagem livre autorizada pela editora. `[Open Access — substitui AKENINE-MÖLLER]`
+3. GAMBETTA, Gabriel. **Computer Graphics from Scratch**: a programmer’s introduction to 3D rendering. San Francisco: No Starch Press, 2021. Hospedagem livre autorizada pela editora.
 
    - 🔗 [https://gabrielgambetta.com/computer-graphics-from-scratch/](https://gabrielgambetta.com/computer-graphics-from-scratch/)
    - **Justificativa:** desenvolve os fundamentos da renderização tridimensional por meio da implementação de algoritmos, incluindo projeção, rasterização, recorte, iluminação, sombreamento e traçado de raios.
@@ -43,7 +43,7 @@ Gráficos vetoriais e imagens matriciais (*bitmaps*); renderização em CPU e GP
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/2352](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2352)
    - **Justificativa:** apresenta fundamentos matemáticos de sinais, amostragem, convolução e filtragem aplicáveis ao processamento de imagens, ao mapeamento de texturas e às técnicas de antisserrilhamento.
 
-5. **Produção gráfica**: arte e técnica na direção de arte. São Paulo: Pearson, [s. d.]. `[substitui ANGEL — ⚠️ autoria e ano a confirmar na plataforma]`
+5. **Produção gráfica**: arte e técnica na direção de arte. São Paulo: Pearson, [s. d.]. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/3102](https://plataforma.bvirtual.com.br/Acervo/Publicacao/3102)
    - **Justificativa:** apresenta princípios visuais, cromáticos e técnicos da produção gráfica, complementando o estudo de modelos de cores, composição, resolução, formatos e preparação de imagens.
@@ -62,5 +62,5 @@ Gráficos vetoriais e imagens matriciais (*bitmaps*); renderização em CPU e GP
 
 3. SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration. **ACM Transactions on Graphics**, v. 43, 2024.
 
-   - 🔗 *link a verificar*
+   - 🔗 [https://dl.acm.org/doi/abs/10.1145/3658193](https://dl.acm.org/doi/abs/10.1145/3658193)
    - **Justificativa:** apresenta uma abordagem eficiente para representação e renderização em tempo real de grandes cenas por campos de radiância, relacionando qualidade visual, desempenho e uso de memória.

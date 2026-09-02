@@ -28,7 +28,7 @@ Fundamentos dos sistemas digitais; sistemas de numeração e representação bin
    - 🔗 *link a verificar*
    - **Justificativa:** apresenta os fundamentos da eletrônica digital, abrangendo sistemas de numeração, portas lógicas, álgebra booleana, circuitos combinacionais, circuitos sequenciais, registradores, contadores e memórias.
 
-2. PINHEIRO, C. A. M. **Sistemas de controles digitais e processamento de sinais**. 1. ed. Rio de Janeiro: Interciência, 2017. `[promovida do corpus]`
+2. PINHEIRO, C. A. M. **Sistemas de controles digitais e processamento de sinais**. 1. ed. Rio de Janeiro: Interciência, 2017. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/124114](https://plataforma.bvirtual.com.br/Acervo/Publicacao/124114)
    - **Justificativa:** relaciona sistemas digitais, processamento de sinais e técnicas de controle, contribuindo para a compreensão de aplicações em automação e sistemas computacionais embarcados.

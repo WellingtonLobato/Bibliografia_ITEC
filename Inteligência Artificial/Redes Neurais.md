@@ -38,12 +38,12 @@ Perceptrons e perceptrons multicamadas (MLP); teorema da aproximação universal
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/228854](https://plataforma.bvirtual.com.br/Acervo/Publicacao/228854)
    - **Justificativa:** apresenta práticas de desenvolvimento de modelos de aprendizagem de máquina em Python, auxiliando nas etapas de preparação de dados, treinamento, avaliação e aplicação em problemas reais.
 
-4. NIELSEN, Michael A. **Neural Networks and Deep Learning**. [S. l.]: Determination Press, 2015. Livro on-line gratuito. `[Open Access — substitui HAYKIN]`
+4. NIELSEN, Michael A. **Neural Networks and Deep Learning**. [S. l.]: Determination Press, 2015. Livro on-line gratuito. 
 
    - 🔗 [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
    - **Justificativa:** apresenta de maneira didática os fundamentos matemáticos e computacionais das redes neurais, com ênfase em perceptrons, retropropagação, gradiente descendente, regularização e aprendizagem profunda.
 
-5. PRINCE, Simon J. D. **Understanding Deep Learning**. Cambridge: MIT Press, 2023. PDF de acesso livre no site do autor. `[Open Access — substitui GOODFELLOW]`
+5. PRINCE, Simon J. D. **Understanding Deep Learning**. Cambridge: MIT Press, 2023. PDF de acesso livre no site do autor. 
 
    - 🔗 [https://udlbook.github.io/udlbook/](https://udlbook.github.io/udlbook/)
    - **Justificativa:** oferece uma abordagem contemporânea e matematicamente fundamentada sobre aprendizagem profunda, abrangendo otimização, regularização, CNNs, RNNs, atenção, *transformers* e interpretabilidade.

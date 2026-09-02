@@ -28,7 +28,7 @@ Funções reais de uma variável real; limites e continuidade; Teorema do Valor 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/49388](https://plataforma.bvirtual.com.br/Acervo/Publicacao/49388)
    - **Justificativa:** reúne os principais conteúdos de Cálculo I, incluindo limites, continuidade, derivadas e integrais, servindo como apoio teórico e prático ao desenvolvimento da disciplina.
 
-2. FACCIN, Giovani Manzeppi. **Elementos de cálculo diferencial e integral**. 1. ed. Curitiba: InterSaberes, 2015. `[promovida do corpus]`
+2. FACCIN, Giovani Manzeppi. **Elementos de cálculo diferencial e integral**. 1. ed. Curitiba: InterSaberes, 2015. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/30379](https://plataforma.bvirtual.com.br/Acervo/Publicacao/30379)
    - **Justificativa:** apresenta os elementos essenciais do cálculo diferencial e integral, auxiliando na consolidação dos conceitos de limites, derivadas, análise de funções e integração.
@@ -55,12 +55,12 @@ Funções reais de uma variável real; limites e continuidade; Teorema do Valor 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/748](https://plataforma.bvirtual.com.br/Acervo/Publicacao/748)
    - **Justificativa:** apresenta de forma integrada os conteúdos fundamentais de Cálculo I, sendo adequada para revisão, aprofundamento e resolução de exercícios sobre funções, limites, derivadas e integrais.
 
-2. PANONCELI, Diego Manoel. **Análise matemática**. 2. ed. Curitiba: InterSaberes, 2023. `[promovida do corpus]`
+2. PANONCELI, Diego Manoel. **Análise matemática**. 2. ed. Curitiba: InterSaberes, 2023. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/52521](https://plataforma.bvirtual.com.br/Acervo/Publicacao/52521)
    - **Justificativa:** amplia a compreensão dos fundamentos teóricos do cálculo, abordando propriedades dos números reais, limites, continuidade e outros conceitos relevantes à formação matemática.
 
-3. ZANARDINI, Ricardo Alexandre Deckmann. **Ferramentas matemáticas aplicadas**. 1. ed. São Paulo: Contentus, 2020. `[promovida do corpus]`
+3. ZANARDINI, Ricardo Alexandre Deckmann. **Ferramentas matemáticas aplicadas**. 1. ed. São Paulo: Contentus, 2020. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/184438](https://plataforma.bvirtual.com.br/Acervo/Publicacao/184438)
    - **Justificativa:** apresenta ferramentas matemáticas e suas aplicações, contribuindo para a utilização dos conceitos de funções, derivadas e integrais na análise e na resolução de problemas.

@@ -50,17 +50,16 @@ Fundamentos da Língua Brasileira de Sinais (Libras); aspectos linguísticos, hi
 
 ## Bibliografia Suplementar
 
-1. FELIPE, Tanya A. **Libras em contexto**: curso básico — livro do estudante. 8. ed. Rio de Janeiro: WalPrint Gráfica e Editora, 2007.
+1. BAGGIO, Maria Auxiliadora; NOVA, Maria da Graça Casa. Libras. 1. ed. Curitiba: Intersaberes, 2017. 
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/129456](https://plataforma.bvirtual.com.br/Acervo/Publicacao/129456)
+   - **Justificativa:** apresenta os fundamentos da Língua Brasileira de Sinais (Libras), contribuindo para a compreensão de aspectos linguísticos, culturais e educacionais relacionados à inclusão e à comunicação com pessoas surdas no contexto do trabalho.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** oferece material didático estruturado para a aprendizagem inicial da Libras, com vocabulário, situações comunicativas e atividades voltadas ao desenvolvimento da compreensão e da expressão.
-
-2. MARTINS, Vanessa Regina de Oliveira; SANTOS, Lara Ferreira dos; LACERDA, Cristina Broglia Feitosa de. **Libras**: aspectos fundamentais. 1. ed. Curitiba: InterSaberes, 2019. `[substitui GESSER]`
+2. MARTINS, Vanessa Regina de Oliveira; SANTOS, Lara Ferreira dos; LACERDA, Cristina Broglia Feitosa de. **Libras**: aspectos fundamentais. 1. ed. Curitiba: InterSaberes, 2019.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/169745](https://plataforma.bvirtual.com.br/Acervo/Publicacao/169745)
    - **Justificativa:** apresenta aspectos históricos, linguísticos, culturais e educacionais da Libras, contribuindo para uma compreensão ampla da língua e da experiência social das pessoas surdas.
 
-3. SARNIK, Mariana Victoria Todeschini. **Libras**. 1. ed. Curitiba: Contentus, 2020. `[substitui QUADROS & KARNOPP]`
+3. SARNIK, Mariana Victoria Todeschini. **Libras**. 1. ed. Curitiba: Contentus, 2020.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186507](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186507)
    - **Justificativa:** introduz os elementos básicos da Libras e da comunicação com pessoas surdas, oferecendo apoio ao aprendizado do vocabulário e das estruturas utilizadas em situações cotidianas.

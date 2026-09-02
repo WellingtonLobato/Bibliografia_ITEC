@@ -38,12 +38,12 @@ Percepção visual humana; amostragem, quantização e resolução de imagens; m
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/124114](https://plataforma.bvirtual.com.br/Acervo/Publicacao/124114)
    - **Justificativa:** complementa a formação em processamento digital de sinais, auxiliando na compreensão de técnicas de filtragem, análise e tratamento computacional aplicáveis às imagens.
 
-4. PRINCE, Simon J. D. **Computer Vision**: models, learning, and inference. Cambridge: Cambridge University Press, 2012. PDF de acesso livre no site oficial. `[Open Access — substitui SZELISKI]`
+4. PRINCE, Simon J. D. **Computer Vision**: models, learning, and inference. Cambridge: Cambridge University Press, 2012. PDF de acesso livre no site oficial. 
 
    - 🔗 [http://www.computervisionmodels.com/](http://www.computervisionmodels.com/)
    - **Justificativa:** apresenta modelos probabilísticos, métodos de aprendizagem e técnicas de inferência aplicados à visão computacional, abrangendo calibração, segmentação, reconhecimento e análise tridimensional.
 
-5. PRINCE, Simon J. D. **Understanding Deep Learning**. Cambridge: MIT Press, 2023. PDF de acesso livre no site do autor. `[Open Access — substitui FORSYTH]`
+5. PRINCE, Simon J. D. **Understanding Deep Learning**. Cambridge: MIT Press, 2023. PDF de acesso livre no site do autor. 
 
    - 🔗 [https://udlbook.github.io/udlbook/](https://udlbook.github.io/udlbook/)
    - **Justificativa:** oferece fundamentos matemáticos e computacionais da aprendizagem profunda, apoiando o estudo das técnicas modernas empregadas em classificação, detecção, segmentação e reconhecimento de imagens.

@@ -33,12 +33,12 @@ Componentes mecânicos, elétricos e computacionais de sistemas robóticos; cine
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/2378](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2378)
    - **Justificativa:** contextualiza a aplicação da robótica em sistemas industriais e de manufatura, abordando automação, integração de equipamentos, controle de processos e planejamento da produção.
 
-3. LAVALLE, Steven M. **Planning Algorithms**. Cambridge: Cambridge University Press, 2006. Disponibilizado gratuitamente pelo autor e pela editora. `[Open Access — substitui THRUN]`
+3. LAVALLE, Steven M. **Planning Algorithms**. Cambridge: Cambridge University Press, 2006. Disponibilizado gratuitamente pelo autor e pela editora. 
 
    - 🔗 [https://lavalle.pl/planning/](https://lavalle.pl/planning/)
    - **Justificativa:** apresenta os fundamentos dos algoritmos de planejamento, incluindo métodos baseados em grafos, amostragem, espaços de configuração, planejamento de movimento e tomada de decisão sob incerteza.
 
-4. LYNCH, Kevin M.; PARK, Frank C. **Modern Robotics**: mechanics, planning, and control. Cambridge: Cambridge University Press, 2017. Preprint de acesso livre da Northwestern University. `[Open Access — substitui SICILIANO]`
+4. LYNCH, Kevin M.; PARK, Frank C. **Modern Robotics**: mechanics, planning, and control. Cambridge: Cambridge University Press, 2017. Preprint de acesso livre da Northwestern University. 
 
    - 🔗 [https://hades.mech.northwestern.edu/images/7/7f/MR.pdf](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
    - **Justificativa:** integra fundamentos de mecânica, cinemática, dinâmica, planejamento e controle, oferecendo uma abordagem moderna e matematicamente estruturada para o estudo de manipuladores e robôs móveis.

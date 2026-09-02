@@ -23,12 +23,12 @@ Introdução à Interação Humano–Computador (IHC), seu escopo e caráter mul
 
 ## Bibliografia Complementar
 
-1. ABRAHÃO, Júlia; MONTEDO, Uiara Bandineli; MASCIA, Fausto Leopoldo; FLEURY, André Leme; SANTOS, Helbert dos. **Ergonomia e usabilidade**: em ambiente virtual de aprendizagem. 1. ed. São Paulo: Blucher, 2013. `[substitui PREECE]`
+1. ABRAHÃO, Júlia; MONTEDO, Uiara Bandineli; MASCIA, Fausto Leopoldo; FLEURY, André Leme; SANTOS, Helbert dos. **Ergonomia e usabilidade**: em ambiente virtual de aprendizagem. 1. ed. São Paulo: Blucher, 2013. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/164692](https://plataforma.bvirtual.com.br/Acervo/Publicacao/164692)
    - **Justificativa:** relaciona ergonomia e usabilidade ao projeto e à avaliação de ambientes digitais, considerando características humanas, atividades dos usuários e qualidade da interação.
 
-2. AROUCHA, Bruno Zimmerle Lins. **Design da informação**. 1. ed. Curitiba: InterSaberes, 2021. `[substitui NORMAN]`
+2. AROUCHA, Bruno Zimmerle Lins. **Design da informação**. 1. ed. Curitiba: InterSaberes, 2021. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/194851](https://plataforma.bvirtual.com.br/Acervo/Publicacao/194851)
    - **Justificativa:** apresenta princípios de organização e comunicação de informações, contribuindo para o estudo da arquitetura da informação, da navegação, da hierarquia visual e da compreensão das interfaces.
@@ -38,10 +38,10 @@ Introdução à Interação Humano–Computador (IHC), seu escopo e caráter mul
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/185067](https://plataforma.bvirtual.com.br/Acervo/Publicacao/185067)
    - **Justificativa:** aborda fundamentos de usabilidade e projeto de interfaces, auxiliando na definição de requisitos, na prototipação e na avaliação de sistemas interativos.
 
-4. SHNEIDERMAN, B.; PLAISANT, C.; COHEN, M.; JACOBS, S.; ELMQVIST, N. **Designing the user interface**: strategies for effective human–computer interaction. 6. ed. [S. l.]: Pearson, 2016.
+4. SILVA, Jessica Laisa Dias da; STATI, Cesar Ricardo. Prototipagem e testes de usabilidade. 1. ed. Curitiba: Intersaberes, 2021. 
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta princípios, diretrizes e estratégias para o projeto de interfaces eficazes, abrangendo estilos de interação, acessibilidade, colaboração, visualização e avaliação.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/197432](https://plataforma.bvirtual.com.br/Acervo/Publicacao/197432)
+   - **Justificativa:** apresenta conceitos e técnicas de prototipagem e testes de usabilidade, contribuindo para o desenvolvimento e a avaliação de interfaces centradas no usuário no contexto do trabalho.
 
 5. UNGER, Russ; CHANDLER, Carolyn. **Um guia de projetos para UX Design**: para iniciantes e profissionais da área. 3. ed. São Paulo: Pearson, 2025.
 

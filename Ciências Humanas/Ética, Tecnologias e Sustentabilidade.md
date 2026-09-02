@@ -33,12 +33,12 @@ Compreensão das diferentes realidades brasileiras, considerando os contextos cu
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/149503](https://plataforma.bvirtual.com.br/Acervo/Publicacao/149503)
    - **Justificativa:** propõe uma reflexão ampla sobre sustentabilidade, responsabilidade coletiva e preservação ambiental, fortalecendo a compreensão crítica dos impactos do desenvolvimento tecnológico.
 
-3. CALDAS, Ricardo Melito (org.). **Responsabilidade socioambiental**. 2. ed. São Paulo: Pearson, 2019. `[descida da Básica]`
+3. CALDAS, Ricardo Melito (org.). **Responsabilidade socioambiental**. 2. ed. São Paulo: Pearson, 2019. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/176760](https://plataforma.bvirtual.com.br/Acervo/Publicacao/176760)
    - **Justificativa:** aborda práticas e princípios de responsabilidade social e ambiental, apoiando a avaliação das consequências das atividades organizacionais e tecnológicas sobre a sociedade e o meio ambiente.
 
-4. LIMA, Nabylla Fiori de. **Ciência, tecnologia e sociedade**. 1. ed. Curitiba: Contentus, 2020. `[substitui CRAWFORD]`
+4. LIMA, Nabylla Fiori de. **Ciência, tecnologia e sociedade**. 1. ed. Curitiba: Contentus, 2020. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/187864](https://plataforma.bvirtual.com.br/Acervo/Publicacao/187864)
    - **Justificativa:** examina as relações entre ciência, tecnologia e sociedade, oferecendo fundamentos para analisar criticamente os impactos sociais, culturais, políticos e econômicos das inovações tecnológicas.
@@ -60,7 +60,7 @@ Compreensão das diferentes realidades brasileiras, considerando os contextos cu
    - 🔗 [https://doi.org/10.1007/s00146-026-02910-4](https://doi.org/10.1007/s00146-026-02910-4)
    - **Justificativa:** examina os fundamentos éticos presentes no debate acadêmico sobre a sustentabilidade ambiental da IA, articulando responsabilidade tecnológica, consumo de recursos e critérios normativos.
 
-3. SILVA, Luiz Ricardo Mantovani da. **Ciência, tecnologia e sociedade**. 1. ed. Rio de Janeiro: Freitas Bastos, 2024. `[substitui CAVALLEIRO]`
+3. SILVA, Luiz Ricardo Mantovani da. **Ciência, tecnologia e sociedade**. 1. ed. Rio de Janeiro: Freitas Bastos, 2024. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/220311](https://plataforma.bvirtual.com.br/Acervo/Publicacao/220311)
    - **Justificativa:** complementa a discussão sobre as interações entre ciência, tecnologia e sociedade, favorecendo a análise crítica das desigualdades, da inclusão digital e das responsabilidades associadas à inovação.

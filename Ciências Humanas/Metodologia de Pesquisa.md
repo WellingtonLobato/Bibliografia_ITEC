@@ -28,7 +28,7 @@ Tipos e propósitos da pesquisa; pesquisas em teoria, sistemas e aplicações; t
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/3303](https://plataforma.bvirtual.com.br/Acervo/Publicacao/3303)
    - **Justificativa:** articula teoria, método e escrita científica, contribuindo para a compreensão da pesquisa como um processo integrado de produção, análise e comunicação do conhecimento.
 
-2. BRASILEIRO, Ada Magaly Matias. **Como produzir textos acadêmicos e científicos**. São Paulo: Contexto, 2021. `[promovida do arquivo]`
+2. BRASILEIRO, Ada Magaly Matias. **Como produzir textos acadêmicos e científicos**. São Paulo: Contexto, 2021. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186697](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186697)
    - **Justificativa:** oferece orientações práticas para organizar e redigir projetos, artigos e outros textos acadêmicos, favorecendo a comunicação clara dos métodos, resultados e contribuições da pesquisa.
@@ -38,7 +38,7 @@ Tipos e propósitos da pesquisa; pesquisas em teoria, sistemas e aplicações; t
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/204107](https://plataforma.bvirtual.com.br/Acervo/Publicacao/204107)
    - **Justificativa:** apresenta fundamentos e técnicas de investigação científica que apoiam a formulação de problemas, a definição dos procedimentos metodológicos e a análise sistemática dos resultados.
 
-4. KÖCHE, José Carlos. **Fundamentos de metodologia científica**: teoria da ciência e iniciação à pesquisa. 34. ed. Petrópolis: Vozes, 2016. `[promovida do arquivo]`
+4. KÖCHE, José Carlos. **Fundamentos de metodologia científica**: teoria da ciência e iniciação à pesquisa. 34. ed. Petrópolis: Vozes, 2016. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/54223](https://plataforma.bvirtual.com.br/Acervo/Publicacao/54223)
    - **Justificativa:** discute os fundamentos epistemológicos da ciência e os processos de iniciação à pesquisa, estimulando a formulação crítica de problemas, hipóteses e estratégias de investigação.

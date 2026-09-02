@@ -23,7 +23,7 @@ Modelo de arquitetura de von Neumann; componentes de um sistema computacional, i
 
 ## Bibliografia Complementar
 
-1. CORRÊA, Ana Grasielle Dionísio (org.). **Organização e arquitetura de computadores**. São Paulo: Pearson, 2017. `[promovida do corpus]`
+1. CORRÊA, Ana Grasielle Dionísio (org.). **Organização e arquitetura de computadores**. São Paulo: Pearson, 2017. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/124147](https://plataforma.bvirtual.com.br/Acervo/Publicacao/124147)
    - **Justificativa:** apresenta conceitos fundamentais da estrutura e do funcionamento dos computadores, auxiliando na compreensão dos processadores, das memórias, dos barramentos e dos dispositivos de entrada e saída.
@@ -50,7 +50,7 @@ Modelo de arquitetura de von Neumann; componentes de um sistema computacional, i
 
 ## Bibliografia Suplementar
 
-1. AMDAHL, Gene M. Validity of the single processor approach to achieving large scale computing capabilities. In: SPRING JOINT COMPUTER CONFERENCE, 1967, New York. **Proceedings** [...]. New York: Association for Computing Machinery, 1967. p. 483–485. `[SUGESTÃO]`
+1. AMDAHL, Gene M. Validity of the single processor approach to achieving large scale computing capabilities. In: SPRING JOINT COMPUTER CONFERENCE, 1967, New York. **Proceedings** [...]. New York: Association for Computing Machinery, 1967. p. 483–485. 
 
    - 🔗 [https://doi.org/10.1145/1465482.1465560](https://doi.org/10.1145/1465482.1465560)
    - **Justificativa:** apresenta a formulação que se tornou conhecida como Lei de Amdahl, fundamental para analisar os limites de ganho de desempenho obtidos pela paralelização de sistemas computacionais.
@@ -60,7 +60,7 @@ Modelo de arquitetura de von Neumann; componentes de um sistema computacional, i
    - 🔗 [https://doi.org/10.1145/3282307](https://doi.org/10.1145/3282307)
    - **Justificativa:** discute tendências contemporâneas da arquitetura de computadores, incluindo especialização de hardware, paralelismo, eficiência energética e novas oportunidades de inovação arquitetural.
 
-3. PATTERSON, David A. Reduced instruction set computers. **Communications of the ACM**, v. 28, n. 1, p. 8–21, jan. 1985. `[promovida do corpus]`
+3. PATTERSON, David A. Reduced instruction set computers. **Communications of the ACM**, v. 28, n. 1, p. 8–21, jan. 1985. 
 
    - 🔗 *link a verificar*
    - **Justificativa:** apresenta os fundamentos e as motivações das arquiteturas de conjunto reduzido de instruções, contribuindo para a compreensão das diferenças e dos compromissos entre as abordagens RISC e CISC.

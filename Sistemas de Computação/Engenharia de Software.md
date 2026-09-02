@@ -43,7 +43,7 @@ Engenharia de software e sua distinção em relação à programação; atributo
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/212877](https://plataforma.bvirtual.com.br/Acervo/Publicacao/212877)
    - **Justificativa:** aplica princípios e boas práticas da engenharia de software à construção de sistemas de aprendizagem de máquina, abordando organização, versionamento, testes, qualidade, implantação e manutenção.
 
-5. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de requisitos**: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2016. `[substitui PRESSMAN]`
+5. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de requisitos**: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2016. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/160193](https://plataforma.bvirtual.com.br/Acervo/Publicacao/160193)
    - **Justificativa:** aprofunda os processos de elicitação, análise, especificação, validação e gerenciamento de requisitos, relacionando as necessidades dos usuários aos objetivos do negócio.
@@ -60,7 +60,7 @@ Engenharia de software e sua distinção em relação à programação; atributo
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/212696](https://plataforma.bvirtual.com.br/Acervo/Publicacao/212696)
    - **Justificativa:** demonstra como aplicar refatoração e padrões de projeto para melhorar a estrutura, a modularidade, a legibilidade e a manutenibilidade de sistemas existentes.
 
-3. VALENTE, Marco Tulio. **Engenharia de software moderna**: princípios e práticas para desenvolvimento de software com produtividade. Belo Horizonte: Independente, 2020. Versão HTML livre e gratuita. `[Open Access]`
+3. VALENTE, Marco Tulio. **Engenharia de software moderna**: princípios e práticas para desenvolvimento de software com produtividade. Belo Horizonte: Independente, 2020. Versão HTML livre e gratuita. 
 
    - 🔗 [https://engsoftmoderna.info/](https://engsoftmoderna.info/)
    - **Justificativa:** apresenta práticas contemporâneas de desenvolvimento, incluindo métodos ágeis, Git, testes, refatoração, arquitetura, DevOps, microsserviços e princípios de projeto de software.

@@ -23,7 +23,7 @@ Introdução aos sistemas computacionais e aos principais tipos de sistemas oper
 
 ## Bibliografia Complementar
 
-1. CROVADOR, Álvaro. **Física aplicada à robótica**. 1. ed. São Paulo: Contentus, 2020. `[descida da Básica]`
+1. CROVADOR, Álvaro. **Física aplicada à robótica**. 1. ed. São Paulo: Contentus, 2020. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186422](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186422)
    - **Justificativa:** apresenta princípios físicos relacionados ao movimento, à energia, aos sensores e aos atuadores, complementando as atividades práticas de robótica e computação física.
@@ -55,7 +55,7 @@ Introdução aos sistemas computacionais e aos principais tipos de sistemas oper
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/229804](https://plataforma.bvirtual.com.br/Acervo/Publicacao/229804)
    - **Justificativa:** apresenta boas práticas de programação em Python, contribuindo para o desenvolvimento de códigos mais claros, organizados e adequados às atividades práticas da disciplina.
 
-2. RAMOS, Juliano. **Guia prático do servidor Linux**: administração Linux para iniciantes. São Paulo: Casa do Código, 2018. `[descida da Complementar]`
+2. RAMOS, Juliano. **Guia prático do servidor Linux**: administração Linux para iniciantes. São Paulo: Casa do Código, 2018. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/212704](https://plataforma.bvirtual.com.br/Acervo/Publicacao/212704)
    - **Justificativa:** complementa o aprendizado do Linux com atividades de configuração e administração básica, reforçando o uso do terminal e a compreensão do ambiente operacional.

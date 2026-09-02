@@ -11,7 +11,7 @@ Modelo cliente–servidor; padrões Web e recomendações do W3C; HTML, CSS e Ja
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/426](https://plataforma.bvirtual.com.br/Acervo/Publicacao/426)
    - **Justificativa:** apresenta fundamentos do desenvolvimento de aplicações Web interativas, abrangendo tecnologias do lado cliente, comunicação assíncrona, integração com servidores e construção de interfaces dinâmicas.
 
-2. HAVERBEKE, Marijn. **Eloquent JavaScript**: a modern introduction to programming. 4. ed. San Francisco: No Starch Press, 2024. Licença CC BY-NC. `[Open Access — substitui FLANAGAN]`
+2. HAVERBEKE, Marijn. **Eloquent JavaScript**: a modern introduction to programming. 4. ed. San Francisco: No Starch Press, 2024. Licença CC BY-NC. 
 
    - 🔗 [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
    - **Justificativa:** oferece uma abordagem moderna e de acesso aberto sobre JavaScript, incluindo programação, manipulação do DOM, eventos, comunicação HTTP, modularização e desenvolvimento de aplicações Web.
@@ -43,7 +43,7 @@ Modelo cliente–servidor; padrões Web e recomendações do W3C; HTML, CSS e Ja
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/411](https://plataforma.bvirtual.com.br/Acervo/Publicacao/411)
    - **Justificativa:** fornece fundamentos de comunicação, serviços, middleware, concorrência, escalabilidade e tolerância a falhas relevantes para plataformas e aplicações Web distribuídas.
 
-5. VERAS, Manoel; DIOGENES, Yuri. **Computação em nuvem**: nova arquitetura de TI. 1. ed. Rio de Janeiro: Brasport, 2015. `[substitui DUCKETT]`
+5. VERAS, Manoel; DIOGENES, Yuri. **Computação em nuvem**: nova arquitetura de TI. 1. ed. Rio de Janeiro: Brasport, 2015. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/160695](https://plataforma.bvirtual.com.br/Acervo/Publicacao/160695)
    - **Justificativa:** apresenta conceitos e arquiteturas de computação em nuvem, contribuindo para a compreensão da hospedagem, da implantação, da escalabilidade e da operação de aplicações Web.

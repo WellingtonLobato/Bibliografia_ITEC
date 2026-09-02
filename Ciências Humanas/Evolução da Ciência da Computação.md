@@ -23,7 +23,7 @@ Evolução histórica dos instrumentos, conceitos e tecnologias da Computação:
 
 ## Bibliografia Complementar
 
-1. KUROSE, James F.; ROSS, Keith W. **Redes de computadores e a Internet**: uma abordagem top-down. 8. ed. Porto Alegre: Bookman, 2021. `[descida da Básica]`
+1. KUROSE, James F.; ROSS, Keith W. **Redes de computadores e a Internet**: uma abordagem top-down. 8. ed. Porto Alegre: Bookman, 2021. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/198909](https://plataforma.bvirtual.com.br/Acervo/Publicacao/198909)
    - **Justificativa:** apresenta os fundamentos das redes de computadores e da Internet, contribuindo para a compreensão da evolução da comunicação digital, dos protocolos e dos serviços que transformaram a sociedade.
@@ -43,7 +43,7 @@ Evolução histórica dos instrumentos, conceitos e tecnologias da Computação:
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/212824](https://plataforma.bvirtual.com.br/Acervo/Publicacao/212824)
    - **Justificativa:** relaciona lógica, programação e desenvolvimento de sistemas por meio de exemplos práticos, contribuindo para compreender a evolução das linguagens e das formas de interação com os computadores.
 
-5. TANENBAUM, Andrew Stuart; BOS, Herbert. **Sistemas operacionais modernos**. 5. ed. Porto Alegre: Bookman, 2024. `[descida da Básica]`
+5. TANENBAUM, Andrew Stuart; BOS, Herbert. **Sistemas operacionais modernos**. 5. ed. Porto Alegre: Bookman, 2024. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/213434](https://plataforma.bvirtual.com.br/Acervo/Publicacao/213434)
    - **Justificativa:** apresenta a evolução dos sistemas operacionais e de seus principais mecanismos, permitindo compreender seu papel no desenvolvimento dos mainframes, computadores pessoais, dispositivos móveis e sistemas contemporâneos.

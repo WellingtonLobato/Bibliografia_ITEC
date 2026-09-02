@@ -33,7 +33,7 @@ Desenvolvimento, em equipe e sob orientação docente, de projeto integrador do 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/2609](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2609)
    - **Justificativa:** aborda a redação e a apresentação de trabalhos, contribuindo para a produção da documentação técnica e para a comunicação oral e visual do projeto à comunidade acadêmica.
 
-3. CERVO, Amado Luiz; BERVIAN, Pedro Alcino; SILVA, Roberto da. **Metodologia científica**. 6. ed. São Paulo: Pearson, 2006. `[promovida do corpus]`
+3. CERVO, Amado Luiz; BERVIAN, Pedro Alcino; SILVA, Roberto da. **Metodologia científica**. 6. ed. São Paulo: Pearson, 2006. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/341](https://plataforma.bvirtual.com.br/Acervo/Publicacao/341)
    - **Justificativa:** apresenta métodos e etapas para o planejamento e a realização de trabalhos científicos e técnicos, apoiando a definição do problema, dos objetivos, dos procedimentos e dos resultados esperados.
@@ -43,7 +43,7 @@ Desenvolvimento, em equipe e sob orientação docente, de projeto integrador do 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/54223](https://plataforma.bvirtual.com.br/Acervo/Publicacao/54223)
    - **Justificativa:** oferece fundamentos epistemológicos e metodológicos para analisar problemas, formular soluções e avaliar resultados com rigor, criticidade e coerência.
 
-5. PEROVANO, Dalton Gean. **Manual de metodologia da pesquisa científica**. 1. ed. Curitiba: InterSaberes, 2016. `[promovida do corpus]`
+5. PEROVANO, Dalton Gean. **Manual de metodologia da pesquisa científica**. 1. ed. Curitiba: InterSaberes, 2016. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/37394](https://plataforma.bvirtual.com.br/Acervo/Publicacao/37394)
    - **Justificativa:** sistematiza as etapas de elaboração e execução de projetos, incluindo planejamento, métodos, coleta e análise de dados, avaliação e apresentação dos resultados.
@@ -60,7 +60,7 @@ Desenvolvimento, em equipe e sob orientação docente, de projeto integrador do 
    - 🔗 [https://doi.org/10.1145/3660767](https://doi.org/10.1145/3660767)
    - **Justificativa:** discute a aplicação e a avaliação de Inteligência Artificial em pesquisas de engenharia de software, incentivando a análise crítica de métodos, ferramentas, reprodutibilidade e validade dos resultados.
 
-3. MASCARENHAS, Sidnei Augusto (org.). **Metodologia científica**. 2. ed. São Paulo: Pearson, 2018. `[promovida do corpus]`
+3. MASCARENHAS, Sidnei Augusto (org.). **Metodologia científica**. 2. ed. São Paulo: Pearson, 2018. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/183213](https://plataforma.bvirtual.com.br/Acervo/Publicacao/183213)
    - **Justificativa:** reúne conceitos e procedimentos para a elaboração de projetos, seleção de métodos, análise de resultados e produção de documentos acadêmicos e técnicos.

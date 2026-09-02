@@ -28,7 +28,7 @@ Demanda, oferta e equilíbrio de mercado; elasticidade-preço e elasticidade-ren
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/187058](https://plataforma.bvirtual.com.br/Acervo/Publicacao/187058)
    - **Justificativa:** aprofunda a análise dos principais modelos e indicadores macroeconômicos, permitindo examinar políticas econômicas, ciclos de negócios e relações entre produção, emprego e inflação.
 
-2. HUBBARD, R. G.; O'BRIEN, A. P. **Microeconomics**. 5. ed. São Paulo: Pearson Global, 2015. `[descida da Básica]`
+2. HUBBARD, R. G.; O'BRIEN, A. P. **Microeconomics**. 5. ed. São Paulo: Pearson Global, 2015. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186424](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186424)
    - **Justificativa:** relaciona os fundamentos da microeconomia a situações concretas, contribuindo para a análise das decisões de consumidores e empresas e do funcionamento das diferentes estruturas de mercado.
@@ -38,7 +38,7 @@ Demanda, oferta e equilíbrio de mercado; elasticidade-preço e elasticidade-ren
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/184054](https://plataforma.bvirtual.com.br/Acervo/Publicacao/184054)
    - **Justificativa:** apresenta conceitos econômicos fundamentais acompanhados de aplicações, auxiliando o estudante a interpretar fenômenos de mercado e indicadores da economia brasileira e mundial.
 
-4. OPENSTAX. **Principles of Economics**. 3. ed. Houston: OpenStax, Rice University, 2022. Licença CC BY-NC-SA 4.0. `[Open Access]`
+4. OPENSTAX. **Principles of Economics**. 3. ed. Houston: OpenStax, Rice University, 2022. Licença CC BY-NC-SA 4.0. 
 
    - 🔗 [https://openstax.org/details/books/principles-economics-3e](https://openstax.org/details/books/principles-economics-3e)
    - **Justificativa:** oferece uma abordagem abrangente e de acesso aberto sobre microeconomia e macroeconomia, com exemplos, exercícios e recursos que complementam o estudo dos conteúdos da disciplina.
@@ -64,4 +64,3 @@ Demanda, oferta e equilíbrio de mercado; elasticidade-preço e elasticidade-ren
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/6191](https://plataforma.bvirtual.com.br/Acervo/Publicacao/6191)
    - **Justificativa:** integra os principais conceitos de microeconomia e macroeconomia, servindo como apoio para revisar e relacionar o funcionamento dos mercados aos fenômenos econômicos agregados.
-   

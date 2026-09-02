@@ -6,47 +6,47 @@ Tipos de inovação: produto, processo e modelo de negócios; inovação increme
 
 ## Bibliografia Básica
 
-1. BLANK, S.; DORF, B. **The Startup Owner's Manual**: the step-by-step guide for building a great company. Ed. rev. [S. l.]: Wiley, 2020.
+1. SERTEK, Paulo. **Empreendedorismo**. Curitiba: InterSaberes, 2012.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta um processo estruturado para identificar clientes, validar hipóteses e desenvolver modelos de negócios, apoiando a criação e o crescimento de startups orientadas pelas necessidades do mercado.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/6007](https://plataforma.bvirtual.com.br/Acervo/Publicacao/6007)
+   - **Justificativa:** apresenta os fundamentos do empreendedorismo, auxiliando na identificação de oportunidades, na estruturação de novos negócios e no desenvolvimento de competências empreendedoras.
 
-2. CHRISTENSEN, C. M. **The Innovator's Dilemma**: when new technologies cause great firms to fail. [S. l.]: Harvard Business Review Press, 2016.
+2. ORTIZ, Felipe Chibás. **Criatividade, inovação e empreendedorismo**: startups e empresas digitais na economia criativa. 1. ed. São Paulo: Phorte, 2021.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** explica como inovações disruptivas transformam mercados e desafiam empresas estabelecidas, contribuindo para a análise de tecnologias emergentes, estratégias competitivas e oportunidades de inovação.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/205323](https://plataforma.bvirtual.com.br/Acervo/Publicacao/205323)
+   - **Justificativa:** relaciona criatividade, inovação e empreendedorismo ao contexto de startups e empresas digitais, contribuindo para a análise de oportunidades, tendências e modelos de negócios inovadores.
 
-3. RIES, E. **The Lean Startup**: how today's entrepreneurs use continuous innovation to create radically successful businesses. [S. l.]: Crown Business, 2011.
+3. ARANTES, Elaine Cristina; HALICKI, Zélia; STADLER, Adriano (org.). **Empreendedorismo e responsabilidade social**. 1. ed. Curitiba: InterSaberes, 2014.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** fundamenta a metodologia *lean startup* e apresenta conceitos como MVP, aprendizagem validada e decisão entre pivotar ou perseverar, diretamente relacionados às competências desenvolvidas na disciplina.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/6096](https://plataforma.bvirtual.com.br/Acervo/Publicacao/6096)
+   - **Justificativa:** aborda a atividade empreendedora associada à responsabilidade social, contribuindo para o desenvolvimento de negócios que considerem impactos econômicos, sociais e ambientais.
 
 ## Bibliografia Complementar
 
-1. KURATKO, D. F.; MORRIS, M. H.; SCHINDEHUTTE, M. **Understanding the Dynamics of Entrepreneurship through Frameworks**. [S. l.]: Kendall Hunt Publishing, 2015.
+1. RECH, Ionara; HOPPE, Letícia; CARVALHO, Mônica. **Empreendedorismo feminino**: protagonistas em tempos de pandemia. 1. ed. Porto Alegre: ediPUCRS, 2021.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta modelos conceituais para compreender o processo empreendedor, auxiliando na análise de oportunidades, recursos, estratégias e fatores que influenciam a criação de novos negócios.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/189868](https://plataforma.bvirtual.com.br/Acervo/Publicacao/189868)
+   - **Justificativa:** apresenta experiências e desafios do empreendedorismo feminino em cenários de transformação e incerteza, ampliando a discussão sobre diversidade, liderança, adaptação e inovação.
 
-2. OSTERWALDER, A.; PIGNEUR, Y. **Business model generation**: a handbook for visionaries, game changers, and challengers. [S. l.]: Wiley, 2010.
+2. GALVÃO FILHO, Ivam. **Criatividade e inovação**: entre na era das startups. São Paulo: Casa do Código, 2020.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta ferramentas visuais para criação, análise e inovação de modelos de negócios, com destaque para o *Business Model Canvas*, aplicável ao planejamento e à validação de empreendimentos.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/212976](https://plataforma.bvirtual.com.br/Acervo/Publicacao/212976)
+   - **Justificativa:** aborda criatividade, inovação e desenvolvimento de startups, oferecendo suporte à identificação de oportunidades, à validação de ideias e à criação de soluções inovadoras.
 
-3. OSTERWALDER, A.; PIGNEUR, Y.; BERNARDA, G.; SMITH, A. **Value proposition design**: how to create products and services customers want. [S. l.]: Wiley, 2014.
+3. HOBMEIR, Elaine Cristina. **Criatividade e inovação**. Curitiba: Contentus, 2021.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** oferece métodos para compreender necessidades dos clientes e desenvolver propostas de valor adequadas, apoiando a validação de produtos, serviços e oportunidades de mercado.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/220574](https://plataforma.bvirtual.com.br/Acervo/Publicacao/220574)
+   - **Justificativa:** apresenta fundamentos e técnicas para estimular a criatividade e gerir processos de inovação, contribuindo para a geração e a avaliação de ideias empreendedoras.
 
-4. SHANE, S.; VENKATARAMAN, S. The promise of entrepreneurship as a field of research. **Academy of Management Review**, v. 25, n. 1, p. 217–226, 2000.
+4. PAIXÃO, Márcia Valéria. **Inovação em produtos e serviços**. 1. ed. Curitiba: InterSaberes, 2019.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta fundamentos teóricos do empreendedorismo como campo de pesquisa e destaca a relação entre oportunidades, indivíduos e processos de exploração empreendedora.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/22491](https://plataforma.bvirtual.com.br/Acervo/Publicacao/22491)
+   - **Justificativa:** discute processos de criação e desenvolvimento de produtos e serviços inovadores, apoiando a análise das necessidades dos clientes, da proposta de valor e do posicionamento de mercado.
 
-5. TEECE, D. J. Business models, business strategy and innovation. **Long Range Planning**, v. 43, n. 2–3, p. 172–194, 2010.
+5. LOURENÇO, Nivaldo Vieira. **Inovação e boas práticas na gestão pública**. 1. ed. São Paulo: Contentus, 2020.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** analisa a relação entre modelos de negócios, estratégia e inovação, fornecendo fundamentos para compreender como as organizações criam, entregam e capturam valor.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/184455](https://plataforma.bvirtual.com.br/Acervo/Publicacao/184455)
+   - **Justificativa:** amplia a compreensão da inovação para o setor público, apresentando práticas de gestão, melhoria de processos e criação de valor para a sociedade.
 
 ## Bibliografia Suplementar
 
@@ -55,12 +55,12 @@ Tipos de inovação: produto, processo e modelo de negócios; inovação increme
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/198939](https://plataforma.bvirtual.com.br/Acervo/Publicacao/198939)
    - **Justificativa:** aborda os principais desafios da gestão de startups e apresenta práticas relacionadas a planejamento, inovação, mercado, crescimento e tomada de decisão em ambientes de incerteza.
 
-2. ALVES, Elizeu Barroso. **Gestão de startups e coworking**. São Paulo: Contentus, 2020. `[promovida do corpus]`
+2. ALVES, Elizeu Barroso. **Gestão de startups e coworking**. São Paulo: Contentus, 2020.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186034](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186034)
    - **Justificativa:** discute a gestão de startups e os ambientes colaborativos de trabalho, contribuindo para a compreensão de ecossistemas de inovação, redes de relacionamento e modelos organizacionais flexíveis.
 
-3. GOMES, Eduardo; FRANÇA, Rafaela. **Lean governance**: como levar sua startup ao futuro. Belo Horizonte: Del Rey BVU, 2024. `[promovida do corpus]`
+3. GOMES, Eduardo; FRANÇA, Rafaela. **Lean governance**: como levar sua startup ao futuro. Belo Horizonte: Del Rey BVU, 2024.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/221690](https://plataforma.bvirtual.com.br/Acervo/Publicacao/221690)
    - **Justificativa:** relaciona princípios *lean* à governança de startups, oferecendo orientações para estruturar processos, acompanhar indicadores, reduzir riscos e sustentar o crescimento do empreendimento.

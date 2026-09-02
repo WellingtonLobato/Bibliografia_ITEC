@@ -33,7 +33,7 @@ Tipos de aprendizagem de máquina: supervisionada, não supervisionada e por ref
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/228854](https://plataforma.bvirtual.com.br/Acervo/Publicacao/228854)
    - **Justificativa:** oferece uma abordagem prática dos principais algoritmos e técnicas de aprendizagem de máquina com Python, utilizando casos reais para demonstrar preparação de dados, treinamento e avaliação de modelos.
 
-3. LUGER, George F. **Inteligência artificial**. 6. ed. São Paulo: Pearson, 2013. `[descida da Básica]`
+3. LUGER, George F. **Inteligência artificial**. 6. ed. São Paulo: Pearson, 2013. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/180430](https://plataforma.bvirtual.com.br/Acervo/Publicacao/180430)
    - **Justificativa:** apresenta uma visão abrangente dos fundamentos da inteligência artificial, contextualizando a aprendizagem de máquina entre diferentes métodos de representação, raciocínio, busca e solução de problemas.
@@ -43,7 +43,7 @@ Tipos de aprendizagem de máquina: supervisionada, não supervisionada e por ref
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/161682](https://plataforma.bvirtual.com.br/Acervo/Publicacao/161682)
    - **Justificativa:** introduz conceitos e aplicações de inteligência artificial, contribuindo para a compreensão de técnicas computacionais empregadas na construção de sistemas inteligentes e modelos preditivos.
 
-5. ZHANG, Aston; LIPTON, Zachary C.; LI, Mu; SMOLA, Alexander J. **Dive into Deep Learning**. Cambridge: Cambridge University Press, 2023. Licença CC BY-SA 4.0. `[Open Access — substitui GÉRON]`
+5. ZHANG, Aston; LIPTON, Zachary C.; LI, Mu; SMOLA, Alexander J. **Dive into Deep Learning**. Cambridge: Cambridge University Press, 2023. Licença CC BY-SA 4.0. 
 
    - 🔗 [https://d2l.ai/](https://d2l.ai/)
    - **Justificativa:** disponibiliza uma abordagem teórico-prática e de acesso aberto sobre aprendizagem de máquina e redes neurais, com explicações matemáticas, códigos executáveis e experimentos computacionais.

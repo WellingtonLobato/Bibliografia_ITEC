@@ -23,7 +23,7 @@ Componentes dos sistemas operacionais, incluindo núcleo (*kernel*), interpretad
 
 ## Bibliografia Complementar
 
-1. ARPACI-DUSSEAU, Remzi H.; ARPACI-DUSSEAU, Andrea C. **Operating Systems**: three easy pieces. Madison: Arpaci-Dusseau Books, 2018. Capítulos disponíveis gratuitamente no site oficial. `[Open Access — substitui SILBERSCHATZ]`
+1. ARPACI-DUSSEAU, Remzi H.; ARPACI-DUSSEAU, Andrea C. **Operating Systems**: three easy pieces. Madison: Arpaci-Dusseau Books, 2018. Capítulos disponíveis gratuitamente no site oficial. 
 
    - 🔗 [https://www.ostep.org/](https://www.ostep.org/)
    - **Justificativa:** organiza o estudo dos sistemas operacionais em virtualização, concorrência e persistência, apresentando conceitos, exemplos e exercícios sobre processos, escalonamento, memória, *threads* e sistemas de arquivos.
@@ -64,4 +64,3 @@ Componentes dos sistemas operacionais, incluindo núcleo (*kernel*), interpretad
 
    - 🔗 [https://doi.org/10.1145/357401.357402](https://doi.org/10.1145/357401.357402)
    - **Justificativa:** apresenta o princípio de projeto fim a fim, relevante para a distribuição de responsabilidades entre sistemas operacionais, aplicações e redes e para o desenvolvimento de sistemas confiáveis.
-   

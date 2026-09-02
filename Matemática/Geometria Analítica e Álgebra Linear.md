@@ -16,10 +16,11 @@ Sistemas de coordenadas cartesianas; vetores; combinações lineares, dependênc
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/188317](https://plataforma.bvirtual.com.br/Acervo/Publicacao/188317)
    - **Justificativa:** integra os principais conteúdos de geometria analítica e álgebra linear, abrangendo vetores, retas, planos, matrizes, sistemas lineares, espaços vetoriais, autovalores e autovetores.
 
-3. FERNANDES, Daniela Barude. **Álgebra linear**. São Paulo: Pearson, 2015.
+3. FERNANDES, Luana Fonseca Duarte. **Geometria analítica**. 2. ed. Curitiba: InterSaberes, 2023.
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta os fundamentos de matrizes, sistemas lineares, espaços vetoriais e transformações lineares, fornecendo suporte ao estudo de autovalores, autovetores e diagonalização.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/37362](https://plataforma.bvirtual.com.br/Acervo/Publicacao/37362)
+   - **Justificativa:** apresenta os fundamentos de coordenadas, vetores, retas, planos, cônicas e superfícies, auxiliando na interpretação algébrica e geométrica de problemas em duas e três dimensões.
+
 
 ## Bibliografia Complementar
 
@@ -33,10 +34,10 @@ Sistemas de coordenadas cartesianas; vetores; combinações lineares, dependênc
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/49255](https://plataforma.bvirtual.com.br/Acervo/Publicacao/49255)
    - **Justificativa:** desenvolve conceitos de sistemas lineares, matrizes, espaços vetoriais, bases, dimensão, transformações lineares, autovalores e autovetores.
 
-3. FERNANDES, Luana Fonseca Duarte. **Geometria analítica**. 2. ed. Curitiba: InterSaberes, 2023.
-
-   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/37362](https://plataforma.bvirtual.com.br/Acervo/Publicacao/37362)
-   - **Justificativa:** apresenta os fundamentos de coordenadas, vetores, retas, planos, cônicas e superfícies, auxiliando na interpretação algébrica e geométrica de problemas em duas e três dimensões.
+3. BONORA JÚNIOR, Dorival. Vetores e geometria analítica. 1. ed. São Paulo: Ícone, 2019.
+   
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186205](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186205)
+   - **Justificativa:** apresenta de forma didática os fundamentos de vetores e geometria analítica, contribuindo para a compreensão de conceitos como retas, planos e operações vetoriais aplicados ao desenvolvimento do trabalho.
 
 4. FRANCO, Neide Maria Bertoldi. **Álgebra linear**. São Paulo: Pearson, 2016.
 

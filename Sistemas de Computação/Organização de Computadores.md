@@ -23,12 +23,12 @@ Organização interna do processador; caminho de dados; unidade de controle; ban
 
 ## Bibliografia Complementar
 
-1. CORRÊA, Ana Grasielle Dionísio (org.). **Organização e arquitetura de computadores**. São Paulo: Pearson, 2017. `[promovida do corpus]`
+1. CORRÊA, Ana Grasielle Dionísio (org.). **Organização e arquitetura de computadores**. São Paulo: Pearson, 2017. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/124147](https://plataforma.bvirtual.com.br/Acervo/Publicacao/124147)
    - **Justificativa:** apresenta os principais componentes e níveis de organização de um computador, apoiando o estudo do caminho de dados, do processador, da memória, dos barramentos e dos dispositivos periféricos.
 
-2. FIGUEIREDO, Rodrigo Marques de. **Sistemas digitais**: princípios, teoria, técnicas e aplicações. Belo Horizonte: Dialética, 2024. `[promovida do corpus]`
+2. FIGUEIREDO, Rodrigo Marques de. **Sistemas digitais**: princípios, teoria, técnicas e aplicações. Belo Horizonte: Dialética, 2024. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/214564](https://plataforma.bvirtual.com.br/Acervo/Publicacao/214564)
    - **Justificativa:** apresenta princípios e técnicas de sistemas digitais aplicáveis à construção e à compreensão de unidades lógicas, registradores, circuitos sequenciais, memórias e sistemas de controle.
@@ -50,12 +50,12 @@ Organização interna do processador; caminho de dados; unidade de controle; ban
 
 ## Bibliografia Suplementar
 
-1. AMDAHL, Gene M. Validity of the single processor approach to achieving large scale computing capabilities. In: SPRING JOINT COMPUTER CONFERENCE, 1967, New York. **Proceedings** [...]. New York: Association for Computing Machinery, 1967. p. 483–485. `[SUGESTÃO]`
+1. AMDAHL, Gene M. Validity of the single processor approach to achieving large scale computing capabilities. In: SPRING JOINT COMPUTER CONFERENCE, 1967, New York. **Proceedings** [...]. New York: Association for Computing Machinery, 1967. p. 483–485. 
 
    - 🔗 [https://doi.org/10.1145/1465482.1465560](https://doi.org/10.1145/1465482.1465560)
    - **Justificativa:** apresenta a formulação conhecida como Lei de Amdahl, fundamental para analisar os limites de desempenho e os ganhos proporcionados pelo paralelismo nos sistemas computacionais.
 
-2. HENNESSY, John L.; PATTERSON, David A. A new golden age for computer architecture. **Communications of the ACM**, v. 62, n. 2, p. 48–60, fev. 2019. `[promovida do corpus]`
+2. HENNESSY, John L.; PATTERSON, David A. A new golden age for computer architecture. **Communications of the ACM**, v. 62, n. 2, p. 48–60, fev. 2019. 
 
    - 🔗 [https://doi.org/10.1145/3282307](https://doi.org/10.1145/3282307)
    - **Justificativa:** discute tendências contemporâneas da organização e da arquitetura de computadores, incluindo especialização de hardware, paralelismo, eficiência energética e novos projetos de processadores.

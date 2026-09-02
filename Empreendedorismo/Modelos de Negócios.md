@@ -23,7 +23,7 @@
 
 ## Bibliografia Complementar
 
-1. CAMELO, Silvia Helena Henriques (org.). **Gestão da inovação e competitividade**. 2. ed. São Paulo: Pearson, 2018. `[descida da Básica]`
+1. CAMELO, Silvia Helena Henriques (org.). **Gestão da inovação e competitividade**. 2. ed. São Paulo: Pearson, 2018. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/183207](https://plataforma.bvirtual.com.br/Acervo/Publicacao/183207)
    - **Justificativa:** relaciona inovação e competitividade organizacional, oferecendo fundamentos para analisar como novos modelos de negócios podem gerar diferenciação e vantagens competitivas.
@@ -38,10 +38,10 @@
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/213435](https://plataforma.bvirtual.com.br/Acervo/Publicacao/213435)
    - **Justificativa:** oferece fundamentos para análise de mercados, segmentação, posicionamento, relacionamento com clientes e definição de estratégias comerciais associadas aos diferentes modelos de negócios.
 
-4. MALHOTRA, N. K. **Pesquisa de marketing**: foco na decisão. 3. ed. São Paulo: Pearson, 2010.
+4. FERREIRA JUNIOR, Achiles Batista; AZEVEDO, Ney Queiroz de. Marketing digital: uma análise do mercado 3.0. 1. ed. Curitiba: Intersaberes, 2015. 
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta métodos de coleta e análise de informações de mercado que apoiam a identificação de clientes, a validação de propostas de valor e a tomada de decisões sobre modelos de negócios.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/30493](https://plataforma.bvirtual.com.br/Acervo/Publicacao/30493)
+   - **Justificativa:** apresenta conceitos e estratégias de marketing digital, contribuindo para a compreensão das dinâmicas do mercado 3.0 e sua aplicação na divulgação e no posicionamento do produto/projeto desenvolvido no trabalho.
 
 5. STRAUSS, Judy; FROST, Raymond. **E-marketing**. 6. ed. São Paulo: Pearson, 2012.
 

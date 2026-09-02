@@ -55,7 +55,7 @@ Diferenças entre escrita técnica e não técnica; características da escrita 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/183213](https://plataforma.bvirtual.com.br/Acervo/Publicacao/183213)
    - **Justificativa:** complementa os fundamentos de pesquisa científica e oferece referências para a elaboração, a organização e a apresentação de trabalhos acadêmicos.
 
-2. PÁDUA, Elisabete Matallo Marchesini de. **Metodologia da pesquisa**: abordagem teórico-prática. 1. ed. Campinas: Papirus, 2019. `[promovida do corpus]`
+2. PÁDUA, Elisabete Matallo Marchesini de. **Metodologia da pesquisa**: abordagem teórico-prática. 1. ed. Campinas: Papirus, 2019.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/168757](https://plataforma.bvirtual.com.br/Acervo/Publicacao/168757)
    - **Justificativa:** integra conceitos teóricos e procedimentos práticos de pesquisa, apoiando o planejamento das investigações e a comunicação sistemática de seus métodos e resultados.

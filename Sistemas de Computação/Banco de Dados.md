@@ -23,7 +23,7 @@ Tipos de bancos de dados, incluindo modelos relacionais e NoSQL; Sistemas Gerenc
 
 ## Bibliografia Complementar
 
-1. AMADEU, Claudia Vicci et al. **Sistemas de banco de dados**. 4. ed. São Paulo: Pearson, 2005. `[descida da Básica]`
+1. AMADEU, Claudia Vicci et al. **Sistemas de banco de dados**. 4. ed. São Paulo: Pearson, 2005. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/296](https://plataforma.bvirtual.com.br/Acervo/Publicacao/296)
    - **Justificativa:** complementa o estudo dos princípios de sistemas de bancos de dados, abrangendo arquitetura, modelagem, linguagens de consulta, armazenamento, transações e administração.
@@ -50,7 +50,7 @@ Tipos de bancos de dados, incluindo modelos relacionais e NoSQL; Sistemas Gerenc
 
 ## Bibliografia Suplementar
 
-1. BASSO, Douglas Eduardo. **Big data**. 1. ed. São Paulo: Contentus, 2020. `[substitui DATE]`
+1. BASSO, Douglas Eduardo. **Big data**. 1. ed. São Paulo: Contentus, 2020. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186460](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186460)
    - **Justificativa:** amplia o estudo dos bancos de dados ao abordar características, arquiteturas e tecnologias voltadas ao armazenamento e ao processamento de grandes volumes e variedades de dados.

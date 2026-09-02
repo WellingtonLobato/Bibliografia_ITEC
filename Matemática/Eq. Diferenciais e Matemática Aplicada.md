@@ -23,10 +23,10 @@ Solução de sistemas lineares por métodos diretos, incluindo eliminação de G
 
 ## Bibliografia Complementar
 
-1. FERNANDES, Daniela Barude. **Álgebra linear**. São Paulo: Pearson, 2015. `[descida da Básica]`
+1. ZAHN, Maurício. Álgebra linear. 1. ed. São Paulo, SP: Blucher, 2021. 
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** complementa o estudo dos sistemas lineares, das matrizes, das fatorações e dos problemas de autovalores empregados na formulação dos métodos diretos e iterativos.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/216709](https://plataforma.bvirtual.com.br/Acervo/Publicacao/216709)
+   - **Justificativa:** apresenta de forma rigorosa os conceitos fundamentais de álgebra linear, como espaços vetoriais, transformações lineares e sistemas de equações, contribuindo para a fundamentação teórica e a aplicação de métodos matriciais no trabalho.
 
 2. FRANCO, Neide Maria Bertoldi. **Álgebra linear**. São Paulo: Pearson, 2016.
 

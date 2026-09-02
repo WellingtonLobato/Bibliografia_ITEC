@@ -25,7 +25,7 @@ Computação quântica; *blockchain*, sistemas descentralizados e criptomoedas; 
 
 ## Bibliografia Complementar
 
-1. BASSO, Douglas Eduardo. **Big data**. 1. ed. São Paulo: Contentus, 2020. `[substitui NIELSEN & CHUANG]`
+1. BASSO, Douglas Eduardo. **Big data**. 1. ed. São Paulo: Contentus, 2020. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186460](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186460)
    - **Justificativa:** aborda conceitos, arquiteturas e aplicações relacionados ao processamento de grandes volumes de dados, complementando o estudo de IoT, sistemas distribuídos e tecnologias digitais emergentes.
@@ -45,7 +45,7 @@ Computação quântica; *blockchain*, sistemas descentralizados e criptomoedas; 
    - 🔗 *link a verificar*
    - **Justificativa:** sistematiza os conceitos, as arquiteturas e os desafios da computação de borda, destacando sua relação com Internet das Coisas, latência, distribuição de recursos e processamento próximo às fontes de dados.
 
-5. TELLES, André; KOLBE JÚNIOR, Armando. **Smart IoT**: a revolução da internet das coisas para negócios inovadores. 1. ed. Curitiba: InterSaberes, 2022. `[substitui GREENGARD]`
+5. TELLES, André; KOLBE JÚNIOR, Armando. **Smart IoT**: a revolução da internet das coisas para negócios inovadores. 1. ed. Curitiba: InterSaberes, 2022. 
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/201652](https://plataforma.bvirtual.com.br/Acervo/Publicacao/201652)
    - **Justificativa:** discute aplicações, oportunidades e modelos de negócios associados à Internet das Coisas, relacionando conectividade, automação, inovação e transformação digital.

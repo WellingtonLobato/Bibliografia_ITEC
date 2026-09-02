@@ -43,10 +43,9 @@ Frequência relativa e probabilidade; probabilidade condicional e independência
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/1997](https://plataforma.bvirtual.com.br/Acervo/Publicacao/1997)
    - **Justificativa:** oferece uma base teórica consistente em probabilidade e inferência estatística, apoiando o estudo de variáveis aleatórias, distribuições, estimação e testes de hipóteses.
 
-5. PATARRA, Cyro de Carvalho; NEUFELD, John L.; CELESTE, José Luiz. **Estatística aplicada à administração usando Excel**. São Paulo: Pearson, 2003.
-
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta técnicas estatísticas aplicadas com apoio de ferramentas computacionais, contribuindo para a análise de dados, a construção de modelos e a interpretação de resultados.
+5. BONORA JÚNIOR, Dorival. **Estatística básica**. 1. ed. São Paulo: Ícone, 2019. 
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/186207](https://plataforma.bvirtual.com.br/Acervo/Publicacao/186207)
+   - **Justificativa:** apresenta de forma didática os conceitos fundamentais da estatística descritiva e inferencial, contribuindo para a compreensão e a aplicação de medidas de tendência central, dispersão e distribuições na análise de dados do trabalho.
 
 ## Bibliografia Suplementar
 

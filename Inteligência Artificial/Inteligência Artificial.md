@@ -50,7 +50,7 @@ Definições e evolução histórica da Inteligência Artificial; abordagens sim
 
 ## Bibliografia Suplementar
 
-1. PRINCE, Simon J. D. **Understanding Deep Learning**. Cambridge: MIT Press, 2023. PDF de acesso livre no site do autor. `[Open Access — substitui TURING 1950, que está sob paywall na Mind/Oxford]`
+1. PRINCE, Simon J. D. **Understanding Deep Learning**. Cambridge: MIT Press, 2023. PDF de acesso livre no site do autor. 
 
    - 🔗 [https://udlbook.github.io/udlbook/](https://udlbook.github.io/udlbook/)
    - **Justificativa:** apresenta os fundamentos matemáticos e computacionais da aprendizagem profunda, ampliando o conteúdo da disciplina com técnicas contemporâneas de construção e treinamento de modelos inteligentes.
@@ -60,7 +60,7 @@ Definições e evolução histórica da Inteligência Artificial; abordagens sim
    - 🔗 [https://doi.org/10.1017/S0269888900008122](https://doi.org/10.1017/S0269888900008122)
    - **Justificativa:** sistematiza os fundamentos teóricos e práticos dos agentes inteligentes, contribuindo para a compreensão de autonomia, interação, comportamento orientado a objetivos e sistemas multiagentes.
 
-3. ZHANG, Aston; LIPTON, Zachary C.; LI, Mu; SMOLA, Alexander J. **Dive into Deep Learning**. Cambridge: Cambridge University Press, 2023. Licença CC BY-SA 4.0. `[Open Access — substitui McCARTHY]`
+3. ZHANG, Aston; LIPTON, Zachary C.; LI, Mu; SMOLA, Alexander J. **Dive into Deep Learning**. Cambridge: Cambridge University Press, 2023. Licença CC BY-SA 4.0. 
 
    - 🔗 [https://d2l.ai/](https://d2l.ai/)
    - **Justificativa:** oferece material teórico-prático de acesso aberto sobre aprendizagem de máquina e redes neurais, com explicações matemáticas, exemplos implementados e experimentos computacionais.

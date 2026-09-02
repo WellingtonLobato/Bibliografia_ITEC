@@ -60,8 +60,7 @@ Estudo dos verbos *to be* e *to have*; *simple present*; *simple past*; preposi�
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/216799](https://plataforma.bvirtual.com.br/Acervo/Publicacao/216799)
    - **Justificativa:** complementa o estudo das estruturas gramaticais da língua inglesa por meio de exemplos contextualizados, contribuindo para o aprimoramento da leitura, da escrita e da comunicação.
 
-3. AZAR, B. S.; HAGEN, S. A. **Understanding and using English grammar**. 5. ed. [S. l.]: Pearson Education, 2016. `[promovida do corpus]`
-
+3. AZAR, B. S.; HAGEN, S. A. **Understanding and using English grammar**. 5. ed. [S. l.]: Pearson Education, 2016.
    - 🔗 *link a verificar*
    - **Justificativa:** constitui uma referência abrangente para o estudo e a prática da gramática inglesa, permitindo revisar e aprofundar as estruturas linguísticas trabalhadas na disciplina.
 
