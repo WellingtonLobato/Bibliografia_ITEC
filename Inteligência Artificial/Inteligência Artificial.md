@@ -23,30 +23,35 @@ Definições e evolução histórica da Inteligência Artificial; abordagens sim
 
 ## Bibliografia Complementar
 
-1. LUGER, George F. **Artificial Intelligence**: structures and strategies for complex problem solving. 6. ed. Boston: Pearson/Addison-Wesley, 2009.
-
-   - 🔗 *link a verificar*
+<!-- >LUGER, George F. **Artificial Intelligence**: structures and strategies for complex problem solving. 6. ed. Boston: Pearson/Addison-Wesley, 2009.
    - **Justificativa:** aprofunda métodos e estruturas para resolução de problemas complexos, abrangendo busca, lógica, representação do conhecimento, raciocínio sob incerteza e aprendizagem computacional.
-
-2. MEDEIROS, Luciano Frontino de. **Inteligência artificial aplicada**: uma abordagem introdutória. Curitiba: InterSaberes, 2018.
+   -->
+1. MEDEIROS, Luciano Frontino de. **Inteligência artificial aplicada**: uma abordagem introdutória. Curitiba: InterSaberes, 2018.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/161682](https://plataforma.bvirtual.com.br/Acervo/Publicacao/161682)
    - **Justificativa:** apresenta os conceitos fundamentais da Inteligência Artificial por meio de uma abordagem introdutória e aplicada, contribuindo para a compreensão de técnicas utilizadas na construção de sistemas inteligentes.
 
-3. RUSSELL, S.; NORVIG, P. **Artificial intelligence**: a modern approach. 4. ed. [S. l.]: Pearson, 2021.
+<!-- RUSSELL, S.; NORVIG, P. **Artificial intelligence**: a modern approach. 4. ed. [S. l.]: Pearson, 2021.
+   - **Justificativa:** constitui uma referência abrangente sobre agentes inteligentes, algoritmos de busca, problemas de satisfação de restrições, jogos, lógica, planejamento, raciocínio probabilístico e aprendizagem de máquina. -->
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** constitui uma referência abrangente sobre agentes inteligentes, algoritmos de busca, problemas de satisfação de restrições, jogos, lógica, planejamento, raciocínio probabilístico e aprendizagem de máquina.
+2. CARRARO, Fabrício. Inteligência artificial e ChatGPT: da revolução dos modelos de IA generativa à engenharia de prompt. São Paulo, SP: Casa do Código, 2023.
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/214175](https://plataforma.bvirtual.com.br/Acervo/Publicacao/214175)
+   - **Justificativa**: A obra explora os fundamentos dos modelos de inteligência artificial generativa e as técnicas de engenharia de prompt, proporcionando uma visão atualizada sobre os avanços recentes em IA, sendo relevante para a compreensão das tendências e aplicações práticas abordadas na disciplina de Inteligência Artificial.
 
-4. SUAVE, André Augusto. **Inteligência artificial**. Rio de Janeiro: Freitas Bastos, 2024.
+3. SUAVE, André Augusto. **Inteligência artificial**. Rio de Janeiro: Freitas Bastos, 2024.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/216869](https://plataforma.bvirtual.com.br/Acervo/Publicacao/216869)
    - **Justificativa:** apresenta conceitos contemporâneos de Inteligência Artificial e suas aplicações, complementando o estudo das técnicas computacionais e dos contextos em que sistemas inteligentes são desenvolvidos.
 
-5. VALDATI, Aline de Brittos. **Inteligência artificial — IA**. 1. ed. São Paulo: Contentus, 2020.
+4. VALDATI, Aline de Brittos. **Inteligência artificial — IA**. 1. ed. São Paulo: Contentus, 2020.
 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/191624](https://plataforma.bvirtual.com.br/Acervo/Publicacao/191624)
    - **Justificativa:** oferece uma introdução aos fundamentos, às técnicas e às aplicações da Inteligência Artificial, apoiando a contextualização histórica e conceitual da área.
+
+5. RECH, Adir Ubaldo. Artificial intelligence, environment and smart cities. 1. ed. Porto Alegre: Educs, 2021. 
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/198256](https://plataforma.bvirtual.com.br/Acervo/Publicacao/198256)
+   - **Justificativa**: A obra examina a aplicação de inteligência artificial em cidades inteligentes e questões ambientais, ilustrando o uso de técnicas de IA em problemas reais e complexos, o que contribui para a compreensão das possibilidades e desafios práticos da área abordados na disciplina de Inteligência Artificial.
+
 
 ## Bibliografia Suplementar
 
@@ -64,3 +69,4 @@ Definições e evolução histórica da Inteligência Artificial; abordagens sim
 
    - 🔗 [https://d2l.ai/](https://d2l.ai/)
    - **Justificativa:** oferece material teórico-prático de acesso aberto sobre aprendizagem de máquina e redes neurais, com explicações matemáticas, exemplos implementados e experimentos computacionais.
+   

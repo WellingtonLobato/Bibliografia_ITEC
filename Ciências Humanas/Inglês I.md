@@ -51,16 +51,13 @@ Estudo dos verbos *to be* e *to have*; *simple present*; *simple past*; preposi�
 ## Bibliografia Suplementar
 
 1. FINBOW, Thomas Daniel (org.). **Gramática histórica da língua inglesa**. São Paulo: Pearson, 2017.
-
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/151085](https://plataforma.bvirtual.com.br/Acervo/Publicacao/151085)
    - **Justificativa:** oferece uma visão histórica da formação e da evolução da língua inglesa, ampliando a compreensão das estruturas, transformações e particularidades do idioma.
 
 2. MARQUES, Amadeu. **A great time for English**: uma gramática da língua inglesa nas palavras dos grandes mestres. 1. ed. Rio de Janeiro: Lexikon, 2024.
-
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/216799](https://plataforma.bvirtual.com.br/Acervo/Publicacao/216799)
    - **Justificativa:** complementa o estudo das estruturas gramaticais da língua inglesa por meio de exemplos contextualizados, contribuindo para o aprimoramento da leitura, da escrita e da comunicação.
 
-3. AZAR, B. S.; HAGEN, S. A. **Understanding and using English grammar**. 5. ed. [S. l.]: Pearson Education, 2016.
-   - 🔗 *link a verificar*
-   - **Justificativa:** constitui uma referência abrangente para o estudo e a prática da gramática inglesa, permitindo revisar e aprofundar as estruturas linguísticas trabalhadas na disciplina.
-
+3. LACHANCE, Julie. **Practice makes perfect: basic English**. 4. ed. Nova York: McGraw-Hill, 2022.
+   - 🔗 [Biblioteca kindle]()
+   - **Justificativa**: A obra oferece exercícios práticos e progressivos para o desenvolvimento das estruturas básicas da língua inglesa, sendo um recurso didático adequado para a consolidação do vocabulário e da gramática essenciais trabalhados na disciplina de Inglês.

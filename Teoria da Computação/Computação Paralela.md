@@ -62,5 +62,5 @@ Paralelismo e concorrência; métricas de desempenho, aceleração e eficiência
 
 3. SOZZO, E. D.; CONFICCONI, D.; ZENI, A.; SALARIS, M.; SCIUTO, D.; SANTAMBROGIO, M. D. Pushing the Level of Abstraction of Digital System Design: A Survey on How to Program FPGAs. **ACM Computing Surveys**, v. 55, n. 5, p. 1–48, 2022.
 
-   - 🔗 *link a verificar*
+   - 🔗 [https://dl.acm.org/doi/10.1145/3532989](https://dl.acm.org/doi/10.1145/3532989)
    - **Justificativa:** revisa métodos e ferramentas de programação de FPGAs, ampliando o estudo de arquiteturas paralelas, aceleradores de hardware e abstrações para computação de alto desempenho.

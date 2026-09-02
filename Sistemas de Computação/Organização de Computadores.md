@@ -60,7 +60,7 @@ Organização interna do processador; caminho de dados; unidade de controle; ban
    - 🔗 [https://doi.org/10.1145/3282307](https://doi.org/10.1145/3282307)
    - **Justificativa:** discute tendências contemporâneas da organização e da arquitetura de computadores, incluindo especialização de hardware, paralelismo, eficiência energética e novos projetos de processadores.
 
-3. PATTERSON, David A. Reduced instruction set computers. **Communications of the ACM**, v. 28, n. 1, p. 8–21, jan. 1985.
+3. PATTERSON, David A. Reduced instruction set computers. **Communications of the ACM**, v. 28, n. 1, p. 8–21, jan. 1985. 
 
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta os fundamentos das arquiteturas de conjunto reduzido de instruções, contribuindo para a compreensão da relação entre conjunto de instruções, caminho de dados, unidade de controle e desempenho.
+   - 🔗 [https://doi/10.1145/2465.214917](https://dl.acm.org/doi/10.1145/2465.214917)
+   - **Justificativa:** apresenta os fundamentos e as motivações das arquiteturas de conjunto reduzido de instruções, contribuindo para a compreensão das diferenças e dos compromissos entre as abordagens RISC e CISC.

@@ -25,7 +25,7 @@ Fundamentos dos sistemas digitais; sistemas de numeração e representação bin
 
 1. CAPUANO, Francisco G.; IDOETA, Ivan V. **Elementos de eletrônica digital**. 42. ed. São Paulo: Érica, 2018.
 
-   - 🔗 *link a verificar*
+   - 🔗 [Biblioteca Kindle](https://ler.amazon.com.br/?asin=B07QP8BD3W&ref_=kwl_kr_iv_rec_4)
    - **Justificativa:** apresenta os fundamentos da eletrônica digital, abrangendo sistemas de numeração, portas lógicas, álgebra booleana, circuitos combinacionais, circuitos sequenciais, registradores, contadores e memórias.
 
 2. PINHEIRO, C. A. M. **Sistemas de controles digitais e processamento de sinais**. 1. ed. Rio de Janeiro: Interciência, 2017. 
@@ -52,7 +52,7 @@ Fundamentos dos sistemas digitais; sistemas de numeração e representação bin
 
 1. HAMED, Mohamed. **Basics of digital logic circuit based on Boolean algebra for control and protection circuits**. Port Said: Faculty of Engineering – Port Said University, [s. d.].
 
-   - 🔗 *link a verificar*
+   - 🔗 [Open Access](https://www.researchgate.net/publication/333444295_Basics_of_Digital_Logic_Circuit_based_on_Boolean_Algebra_for_control_and_protection_circuits)
    - **Justificativa:** aborda os fundamentos de circuitos lógicos baseados em álgebra booleana e suas aplicações em sistemas de controle e proteção, reforçando a relação entre lógica digital e automação.
 
 2. OPPENHEIM, Alan V.; SCHAFER, Ronald W. **Processamento em tempo discreto de sinais**. 3. ed. São Paulo: Pearson, 2013.

@@ -62,5 +62,5 @@ Modelo de arquitetura de von Neumann; componentes de um sistema computacional, i
 
 3. PATTERSON, David A. Reduced instruction set computers. **Communications of the ACM**, v. 28, n. 1, p. 8–21, jan. 1985. 
 
-   - 🔗 *link a verificar*
+   - 🔗 [https://doi/10.1145/2465.214917](https://dl.acm.org/doi/10.1145/2465.214917)
    - **Justificativa:** apresenta os fundamentos e as motivações das arquiteturas de conjunto reduzido de instruções, contribuindo para a compreensão das diferenças e dos compromissos entre as abordagens RISC e CISC.

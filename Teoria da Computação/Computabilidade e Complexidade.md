@@ -30,13 +30,16 @@ Fundamentos da computabilidade; problemas decidíveis e indecidíveis; problema 
 
 2. BOOLOS, G. S.; BURGESS, J. P.; JEFFREY, R. C. **Computability and logic**. 5. ed. [S. l.]: Cambridge University Press, 2007.
 
-   - 🔗 *link a verificar*
+   - 🔗 [Biblioteca Kindle](https://ler.amazon.com.br/?asin=B00DO1HG40&ref_=kwl_kr_iv_rec_3)
    - **Justificativa:** relaciona lógica e computabilidade por meio do estudo de funções recursivas, máquinas de Turing, decidibilidade, incompletude e limites dos sistemas formais.
 
-3. CHEN, H. **Computability and Complexity**. [S. l.]: MIT Press, 2023.
-
-   - 🔗 *link a verificar*
+<!-- 3. CHEN, H. **Computability and Complexity**. [S. l.]: MIT Press, 2023.
    - **Justificativa:** aborda fundamentos e resultados contemporâneos de computabilidade e complexidade, contribuindo para a análise dos limites teóricos da resolução algorítmica de problemas.
+   -->
+
+3. PEREIRA, José Manuel dos Santos Simões. Grafos e redes: teoria e algoritmos básicos. 1. ed. Rio de Janeiro: Interciência, 2014. 
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/42049](https://plataforma.bvirtual.com.br/Acervo/Publicacao/42049)
+   - **Justificativa**: A obra apresenta os fundamentos teóricos e algorítmicos da teoria dos grafos e redes, temas diretamente relacionados aos conteúdos de modelagem computacional e análise de complexidade de algoritmos abordados na disciplina de Computabilidade e Complexidade.
 
 4. HOPCROFT, John E.; MOTWANI, Rajeev; ULLMAN, Jeffrey D. **Introduction to automata theory, languages, and computation**. 3. ed. Harlow: Pearson Global, 2014.
 

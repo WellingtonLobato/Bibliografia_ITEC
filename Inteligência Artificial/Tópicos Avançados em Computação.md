@@ -40,10 +40,13 @@ Computação quântica; *blockchain*, sistemas descentralizados e criptomoedas; 
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/212861](https://plataforma.bvirtual.com.br/Acervo/Publicacao/212861)
    - **Justificativa:** apresenta os fundamentos da arquitetura Ethereum, dos contratos inteligentes e das aplicações descentralizadas, apoiando o estudo de *blockchain*, criptomoedas e sistemas distribuídos.
 
-4. SHI, W.; CAO, J.; ZHANG, Q.; LI, Y.; XU, L. Edge computing: Vision and challenges. **IEEE Internet of Things Journal**, v. 3, n. 5, p. 637–646, 2016.
-
-   - 🔗 *link a verificar*
+<!-- 4. SHI, W.; CAO, J.; ZHANG, Q.; LI, Y.; XU, L. Edge computing: Vision and challenges. **IEEE Internet of Things Journal**, v. 3, n. 5, p. 637–646, 2016.
    - **Justificativa:** sistematiza os conceitos, as arquiteturas e os desafios da computação de borda, destacando sua relação com Internet das Coisas, latência, distribuição de recursos e processamento próximo às fontes de dados.
+   -->
+
+4. Y. Mao, C. You, J. Zhang, K. Huang and K. B. Letaief, **A Survey on Mobile Edge Computing**: The Communication Perspective, IEEE Communications Surveys & Tutorials, vol. 19, no. 4, pp. 2322-2358, Fourthquarter 2017
+   - 🔗 [IEEE Communications Surveys & Tutorials](https://ieeexplore.ieee.org/document/8016573)
+   - **Justificativa**: O artigo oferece uma visão abrangente sobre Mobile Edge Computing sob a perspectiva das comunicações, explorando arquiteturas, técnicas de offloading e integração com redes móveis, conteúdos relevantes para o estudo de tópicos avançados em sistemas distribuídos e computação em borda.
 
 5. TELLES, André; KOLBE JÚNIOR, Armando. **Smart IoT**: a revolução da internet das coisas para negócios inovadores. 1. ed. Curitiba: InterSaberes, 2022. 
 

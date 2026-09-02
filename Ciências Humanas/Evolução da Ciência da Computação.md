@@ -28,10 +28,7 @@ Evolução histórica dos instrumentos, conceitos e tecnologias da Computação:
    - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/198909](https://plataforma.bvirtual.com.br/Acervo/Publicacao/198909)
    - **Justificativa:** apresenta os fundamentos das redes de computadores e da Internet, contribuindo para a compreensão da evolução da comunicação digital, dos protocolos e dos serviços que transformaram a sociedade.
 
-2. O'REGAN, G. **A brief history of computing**. Berlin: Springer, 2008. p. I–XIX.
-
-   - 🔗 *link a verificar*
-   - **Justificativa:** oferece uma perspectiva histórica diretamente relacionada ao desenvolvimento da Computação, abrangendo inventores, máquinas, conceitos e acontecimentos determinantes para a consolidação da área.
+2. 
 
 3. SILVA, Luiz Ricardo Mantovani da. **Introdução à Computação**. 1. ed. Rio de Janeiro: Freitas Bastos, 2025.
 
@@ -50,17 +47,17 @@ Evolução histórica dos instrumentos, conceitos e tecnologias da Computação:
 
 ## Bibliografia Suplementar
 
-1. HOPCROFT, John E. Computer science: the emergence of a discipline. **Communications of the ACM**, v. 30, n. 3, p. 198–202, mar. 1987.
+1. HOPCROFT, John E. **Computer science: the emergence of a discipline.** Communications of the ACM, v. 30, n. 3, p. 198–202, mar. 1987.
 
    - 🔗 [https://doi.org/10.1145/214748.214750](https://doi.org/10.1145/214748.214750)
    - **Justificativa:** discute o processo de constituição da Ciência da Computação como disciplina acadêmica, oferecendo uma perspectiva histórica sobre sua identidade, seus fundamentos e sua consolidação científica.
 
-2. KAY, Alan C. The early history of Smalltalk. In: ACM SIGPLAN CONFERENCE ON HISTORY OF PROGRAMMING LANGUAGES, 2., 1993, New York. **Proceedings** [...]. New York: Association for Computing Machinery, 1993. p. 69–95.
+2. KAY, Alan C. **The early history of Smalltalk**. In: ACM SIGPLAN CONFERENCE ON HISTORY OF PROGRAMMING LANGUAGES, 2., 1993, New York. Proceedings [...]. New York: Association for Computing Machinery, 1993. p. 69–95.
 
    - 🔗 [https://doi.org/10.1145/154766.155364](https://doi.org/10.1145/154766.155364)
    - **Justificativa:** registra a história inicial da linguagem Smalltalk e suas contribuições para a programação orientada a objetos, as interfaces gráficas e os ambientes computacionais interativos.
 
-3. SIPSER, Michael. The history and status of the P versus NP question. In: ANNUAL ACM SYMPOSIUM ON THEORY OF COMPUTING, 24., 1992, New York. **Proceedings** [...]. New York: Association for Computing Machinery, 1992. p. 603–618.
+3. SIPSER, Michael. **The history and status of the P versus NP question**. In: ANNUAL ACM SYMPOSIUM ON THEORY OF COMPUTING, 24., 1992, New York. Proceedings [...]. New York: Association for Computing Machinery, 1992. p. 603–618.
 
    - 🔗 [https://doi.org/10.1145/129712.129771](https://doi.org/10.1145/129712.129771)
    - **Justificativa:** apresenta a trajetória histórica e o estado de uma das questões centrais da teoria da computação, contribuindo para compreender a evolução dos estudos sobre algoritmos, complexidade e limites computacionais.

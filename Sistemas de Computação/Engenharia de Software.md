@@ -25,7 +25,7 @@ Engenharia de software e sua distinção em relação à programação; atributo
 
 1. CARVALHO, Fábio Câmara Araújo de. **Gestão de projetos**. 2. ed. São Paulo: Pearson, 2018.
 
-   - 🔗 *link a verificar*
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/22259](https://plataforma.bvirtual.com.br/Acervo/Publicacao/22259)
    - **Justificativa:** apresenta fundamentos de planejamento, execução, acompanhamento e controle de projetos, contribuindo para a organização das atividades, dos recursos, dos prazos e dos riscos em projetos de software.
 
 2. GALLOTTI, Giocondo Marino Antonio (org.). **Qualidade de software**. 1. ed. São Paulo: Pearson, 2017.

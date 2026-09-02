@@ -50,17 +50,14 @@ Fundamentos da lógica formal aplicada à Ciência da Computação; lógica prop
 
 ## Bibliografia Suplementar
 
-1. GABBAY, Dov M.; WOODS, John. The reach of abduction. **Journal of Logic and Computation**, v. 15, 2005.
-
-   - 🔗 *link a verificar*
-   - **Justificativa:** discute a abdução como forma de inferência, ampliando o estudo dos mecanismos de raciocínio lógico e de suas aplicações na representação do conhecimento e na Inteligência Artificial.
+1. ACM TRANSACTIONS ON COMPUTATIONAL LOGIC (TOCL). ACM Digital Library. Nova York: Association for Computing Machinery, 2000-. Trimestral. 
+   - 🔗 [https://dl.acm.org/journal/tocl](https://dl.acm.org/journal/tocl)
+   - **Justificativa:** O periódico publica pesquisas originais sobre lógica computacional, abrangendo temas como lógica proposicional, de primeira ordem, modal e suas aplicações em verificação formal e semântica de linguagens, sendo uma fonte científica de referência para os fundamentos teóricos estudados na disciplina de Lógica para Ciência da Computação.
 
 2. MAGNUS, P. D.; BUTTON, Tim; ZACH, Richard et al. **forall x**: Calgary — a free and open introduction to formal logic. Calgary: Open Logic Project, 2023. Licença CC BY 4.0. 
-
    - 🔗 [https://forallx.openlogicproject.org/](https://forallx.openlogicproject.org/)
    - **Justificativa:** oferece uma introdução aberta e rigorosa à lógica proposicional e de primeira ordem, abrangendo sintaxe, semântica, validade, dedução natural e técnicas de formalização.
 
-3. SOUZA, João Nunes de. **Lógica para Ciência da Computação e áreas afins**. [S. l.: s. n.], 2015.
-
-   - 🔗 *link a verificar*
-   - **Justificativa:** apresenta fundamentos e aplicações da lógica voltados à Computação, apoiando o estudo de demonstrações, sistemas dedutivos, lógica de predicados, resolução e programação lógica.
+3. THEORY OF COMPUTING (ToC). Theory of Computing. Chicago: University of Chicago, Department of Computer Science, 2004. 
+   - 🔗 [https://theoryofcomputing.org](https://theoryofcomputing.org)
+   - **Justificativa**: O periódico publica pesquisas de alto nível em teoria da computação, incluindo complexidade computacional, algoritmos e fundamentos matemáticos da ciência da computação, constituindo uma fonte científica relevante para o aprofundamento dos conteúdos teóricos abordados na disciplina de Lógica para Ciência da Computação.

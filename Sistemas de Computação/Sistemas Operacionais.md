@@ -28,10 +28,15 @@ Componentes dos sistemas operacionais, incluindo núcleo (*kernel*), interpretad
    - 🔗 [https://www.ostep.org/](https://www.ostep.org/)
    - **Justificativa:** organiza o estudo dos sistemas operacionais em virtualização, concorrência e persistência, apresentando conceitos, exemplos e exercícios sobre processos, escalonamento, memória, *threads* e sistemas de arquivos.
 
-2. COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon. **Distributed systems**: concepts and design. 5. ed. Harlow: Pearson, 2012.
-
-   - 🔗 *link a verificar*
+<!-- 2. COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon. **Distributed systems**: concepts and design. 5. ed. Harlow: Pearson, 2012.
    - **Justificativa:** apresenta fundamentos de sistemas distribuídos, incluindo comunicação, processos, sincronização, replicação, consistência, segurança e tolerância a falhas.
+   -->
+2. DENARDIN, Gustavo Weber; BARRIQUELLO, Carlos Henrique. Sistemas operacionais de tempo real e sua aplicação em sistemas embarcados. 1. ed. São Paulo: Blucher, 2019. 
+
+   - 🔗 [https://plataforma.bvirtual.com.br/Acervo/Publicacao/169968](https://plataforma.bvirtual.com.br/Acervo/Publicacao/169968)
+   - **Justificativa**: A obra aborda os princípios e mecanismos de sistemas operacionais de tempo real aplicados a sistemas embarcados, incluindo escalonamento, gerenciamento de tarefas e sincronização, conteúdos fundamentais para a compreensão aprofundada dos conceitos tratados na disciplina de Sistemas Operacionais.
+
+
 
 3. NEMETH, E.; SNYDER, G.; HEIN, T. R. **Manual completo de Linux**: guia do administrador. 2. ed. São Paulo: Pearson, 2007.
 
